@@ -76,7 +76,7 @@ You have to create an *.env*-file in the *src_gpt_approach* folder. The followin
 - LIMIT  ("-1" =None, "n" = any number)
   
 
-This Repo was created for 'Redundancy Analysis of Annotated User Stories Using Graph Transformation and Large Language Models' for the [MDE Intelligence - 6th Workshop on Artificial Intelligence and Model-driven Engineering](https://mde-intelligence.github.io/)
+This Repo was created for 'Agile Development: Redundancy Analysis of User Stories with Graphs and Large Language Models' for the [Requirements Engineering: Foundation for Software Quality (REFSQ) 2025](https://2025.refsq.org/)
 
 
 ## Contributors
