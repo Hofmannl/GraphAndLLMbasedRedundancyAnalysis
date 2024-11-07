@@ -1,0 +1,112 @@
+[
+    {
+        "elipsedTimeNs": 4198702000,
+        "repairRuns": 0,
+        "relatedStories": [
+            1418,
+            1419
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4559487200,
+        "repairRuns": 0,
+        "relatedStories": [
+            1418,
+            1420
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4873876600,
+        "repairRuns": 0,
+        "relatedStories": [
+            1418,
+            1421
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4421066500,
+        "repairRuns": 0,
+        "relatedStories": [
+            1418,
+            1422
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4816379500,
+        "repairRuns": 0,
+        "relatedStories": [
+            1418,
+            1423
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

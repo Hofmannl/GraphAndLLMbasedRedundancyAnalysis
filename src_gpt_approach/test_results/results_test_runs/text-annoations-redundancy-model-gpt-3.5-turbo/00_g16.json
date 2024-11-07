@@ -1,0 +1,172 @@
+[
+    {
+        "elipsedTimeNs": 19074160800,
+        "repairRuns": 1,
+        "relatedStories": [
+            784,
+            785
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the collection curator wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "collection curator",
+                        "set"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "collection curator",
+                        "see"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the collection curator wants to interact with scheduled records deletion date.",
+                    "firstUserStoryTargetPair": [
+                        "set",
+                        "date"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "see",
+                        "scheduled records deletion date"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the collection curator wants to interact with data.",
+                    "firstUserStoryTargetPair": [
+                        "deleted",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "displayed",
+                        "scheduled records deletion date"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the collection curator wants to interact with data.",
+                    "firstUserStoryTargetPair": [
+                        "hidden",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "displayed",
+                        "scheduled records deletion date"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 8548790900,
+        "repairRuns": 0,
+        "relatedStories": [
+            784,
+            786
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to set or track something.",
+                    "firstUserStoryTargetPair": [
+                        "set",
+                        "date"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "track",
+                        "who"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to set or track something.",
+                    "firstUserStoryTargetPair": [
+                        "set",
+                        "date"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "track",
+                        "who is financially responsible"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 21636859500,
+        "repairRuns": 1,
+        "relatedStories": [
+            784,
+            787
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the persona wants to perform an action related to managing data.",
+                    "firstUserStoryTriggerPair": [
+                        "collection curator",
+                        "set"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "repository manager",
+                        "run"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the persona wants to take action on data.",
+                    "firstUserStoryTargetPair": [
+                        "set",
+                        "date"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "run",
+                        "report"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, data is to be deleted or hidden.",
+                    "firstUserStoryTargetPair": [
+                        "deleted",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "periodically showing",
+                        "storage consumed"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

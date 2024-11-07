@@ -1,0 +1,16 @@
+Create a .env file with the following content
+
+OPENAI_API_KEY="Insert here your api key" # Enter here your API key
+MODEL_VERSION="Insert here your model" #GPT 3.5 = gpt-3.5-turbo points to gpt-3.5-turbo-0125, GPT-4o = gpt-4o-2024-05-13
+TPM="1000000" # Tokens-Per-Minute
+RPM="10000" # Requests-Per-Minute
+TOKEN_DELTA="10000" # Approximation of the Request Size
+TEMPERATURE="Insert TEMPERATURE" #e.g., 0.2
+OUTPUT_EXCEL_NAME_WITH_JUST_TEXT="'Insert here the name of the file'.xlsx" #Insert here the name of the .xlsx-file which stores the results
+OUTPUT_EXCEL_NAME_WITH_ANNOTATIONS="'Insert here the name of the file'.xlsx" #Insert here the name of the .xlsx-file which stores the results
+OUTPUT_EXCEL_NAME_WITH_TEXT_AND_ANNOTATIONS="'Insert here the name of the file'.xlsx" #Insert here the name of the .xlsx-file which stores the results
+UTPUT_EXCEL_NAME_JUST_TEXTUAL="'Insert here the name of the file'.xlsx" #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
+THRESHOLD_REPAIR="3" #Any positive number including 0 of repair steps
+THREAD_MULTIPLICATOR = "1" # Any number for thread multiplication > 0 (CPU * THREAD_MULTIPLICATOR)
+THREADING="0" # "0" = OFF, "1" = ON, 
+LIMIT="0" #"-1" =None, ""n" = any number

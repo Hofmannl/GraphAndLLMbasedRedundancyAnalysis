@@ -1,0 +1,239 @@
+[
+    {
+        "PID": "#G12#",
+        "USID": "915",
+        "Text": "As a camp administrator, I want to be able to schedule activities for campers, so that camp workers can easily keep track of who is where at all times.",
+        "Main Part": "As a camp administrator, I want to be able to schedule activities for campers",
+        "Benefit": "camp workers can easily keep track of who is where at all times",
+        "Triggers": {
+            "Main Part": [
+                [
+                    "camp administrator",
+                    "schedule"
+                ]
+            ],
+            "Benefit": []
+        },
+        "Targets": {
+            "Main Part": [
+                [
+                    "schedule",
+                    "activities"
+                ]
+            ],
+            "Benefit": [
+                [
+                    "easily keep track",
+                    "campers"
+                ]
+            ]
+        },
+        "Contains": {
+            "Main Part": [],
+            "Benefit": []
+        }
+    },
+    {
+        "PID": "#G12#",
+        "USID": "936",
+        "Text": "As a administrator, I want to be able to arrange tasks/activities for a specific camp group, so that I can track each groups daily/weekly and monthly activities.",
+        "Main Part": "As a administrator, I want to be able to arrange tasks/activities for a specific camp group",
+        "Benefit": "I can track each groups daily/weekly and monthly activities",
+        "Triggers": {
+            "Main Part": [
+                [
+                    "administrator",
+                    "arrange"
+                ]
+            ],
+            "Benefit": []
+        },
+        "Targets": {
+            "Main Part": [
+                [
+                    "arrange",
+                    "tasks"
+                ],
+                [
+                    "arrange",
+                    "activities"
+                ]
+            ],
+            "Benefit": [
+                [
+                    "track",
+                    "each groups daily/weekly and monthly activities"
+                ]
+            ]
+        },
+        "Contains": {
+            "Main Part": [
+                [
+                    "specific camp group",
+                    "activities"
+                ],
+                [
+                    "specific camp group",
+                    "tasks"
+                ]
+            ],
+            "Benefit": []
+        }
+    },
+    {
+        "PID": "#G12#",
+        "USID": "940",
+        "Text": "As a camp administrator, I want to be able to delete campers from the database, so that I can keep my pages free of clutter.",
+        "Main Part": "As a camp administrator, I want to be able to delete campers from the database",
+        "Benefit": "I can keep my pages free of clutter",
+        "Triggers": {
+            "Main Part": [
+                [
+                    "camp administrator",
+                    "delete"
+                ]
+            ],
+            "Benefit": []
+        },
+        "Targets": {
+            "Main Part": [
+                [
+                    "delete",
+                    "campers"
+                ]
+            ],
+            "Benefit": [
+                [
+                    "keep",
+                    "pages"
+                ]
+            ]
+        },
+        "Contains": {
+            "Main Part": [
+                [
+                    "database",
+                    "campers"
+                ]
+            ],
+            "Benefit": [
+                [
+                    "pages",
+                    "free of clutter"
+                ]
+            ]
+        }
+    },
+    {
+        "PID": "#G12#",
+        "USID": "942",
+        "Text": "As a camp administrator, I want to be able to delete parents from the database, so that I can maintain my records free of unneeded clutter.",
+        "Main Part": "As a camp administrator, I want to be able to delete parents from the database",
+        "Benefit": "I can maintain my pages free of unneeded clutter",
+        "Triggers": {
+            "Main Part": [
+                [
+                    "camp administrator",
+                    "delete"
+                ]
+            ],
+            "Benefit": []
+        },
+        "Targets": {
+            "Main Part": [
+                [
+                    "delete",
+                    "parents"
+                ]
+            ],
+            "Benefit": [
+                [
+                    "maintain",
+                    "records"
+                ]
+            ]
+        },
+        "Contains": {
+            "Main Part": [
+                [
+                    "database",
+                    "parents"
+                ]
+            ],
+            "Benefit": [
+                [
+                    "records",
+                    "free of unneeded clutter"
+                ]
+            ]
+        }
+    },
+    {
+        "PID": "#G05#",
+        "USID": "797",
+        "Text": "As an End-API User, I want to be able to apprehend if a user is a Publisher, so that I can serve operations based on Dataset Publisher privileges.",
+        "Main Part": "As an API User, I want to be able to apprehend if a user is a Publisher",
+        "Benefit": "I can serve functionality based on Dataset Publisher privileges",
+        "Triggers": {
+            "Main Part": [
+                [
+                    "API End-User",
+                    "apprehend"
+                ]
+            ],
+            "Benefit": []
+        },
+        "Targets": {
+            "Main Part": [
+                [
+                    "apprehend",
+                    "user"
+                ]
+            ],
+            "Benefit": [
+                [
+                    "serve",
+                    "operations"
+                ]
+            ]
+        },
+        "Contains": {
+            "Main Part": [],
+            "Benefit": []
+        }
+    },
+    {
+        "PID": "#G05#",
+        "USID": "798",
+        "Text": "As an API User, I want to be able to understand if a user is an Administrator So that I can offer functionality based on Platform Administration privileges.",
+        "Main Part": "As an API User, I want to be able to understand if a user is an Administrator",
+        "Benefit": "I can offer functionality based on Platform Administration privileges",
+        "Triggers": {
+            "Main Part": [
+                [
+                    "API User",
+                    "understand"
+                ]
+            ],
+            "Benefit": []
+        },
+        "Targets": {
+            "Main Part": [
+                [
+                    "understand",
+                    "user"
+                ]
+            ],
+            "Benefit": [
+                [
+                    "offer",
+                    "functionality"
+                ]
+            ]
+        },
+        "Contains": {
+            "Main Part": [],
+            "Benefit": []
+        }
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "elipsedTimeNs": 5760184700,
+        "repairRuns": 0,
+        "relatedStories": [
+            1733,
+            1735
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the user wants to search and discover music.",
+                    "firstUserStoryTargetPair": [
+                        "search",
+                        "music"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "discover",
+                        "music"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 17862554500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1733,
+            1736
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the user wants to search and discover something.",
+                    "firstUserStoryTriggerPair": [
+                        "user",
+                        "search"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "user",
+                        "search"
+                    ]
+                },
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the user wants to search and discover something.",
+                    "firstUserStoryTriggerPair": [
+                        "user",
+                        "discover"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "user",
+                        "discover"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the user wants to search and discover music.",
+                    "firstUserStoryTargetPair": [
+                        "search",
+                        "music"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "search",
+                        "music"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the user wants to discover music.",
+                    "firstUserStoryTargetPair": [
+                        "discover",
+                        "music"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "discover",
+                        "music"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the user wants to use content identification or fingerprinting.",
+                    "firstUserStoryTargetPair": [
+                        "using",
+                        "content identification"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "using",
+                        "content identification"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the user wants to use content identification or fingerprinting.",
+                    "firstUserStoryTargetPair": [
+                        "using",
+                        "fingerprinting"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "using",
+                        "fingerprinting"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

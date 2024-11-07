@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+message: |
+  If you use this software, please cite it as below and pay attention to the following requirements:
+  - Ensure proper attribution in any publications or presentations.
+  - Adhere to the licensing terms specified in the repository.
+  - Contact the authors for any commercial use or redistribution.
+authors:
+  - family-names: Hofmann
+    given-names: Lukas Sebastian
+    https://orcid.org/0009-0004-3823-3894
+- family-names: Lauer
+    given-names: Alexander
+- family-names: Taentzer
+    given-names: Gabriele
+title: "Agile Development in the Era of GenAI: Redundancy Analysis of User Stories with Formal Approaches and Large Language Models"
+version: 1.0.0
+date-released: 2024-07-05

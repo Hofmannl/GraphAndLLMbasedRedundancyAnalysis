@@ -1,0 +1,134 @@
+[
+    {
+        "relatedStories": [
+            915,
+            936
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "mainPartExplanationOfRedundancy": "In both stories, the (camp) administrator wants to schedule/arrange something.",
+            "pairsOfTriggersRedundancies": [
+                {
+                    "firstUserStoryTriggerPair": [
+                        "camp administrator",
+                        "schedule"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "administrator",
+                        "arrange"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "firstUserStoryTargetPair": [
+                        "arrange",
+                        "activities"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "schedule",
+                        "activities"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "benefitExplanationOfRedundancy": "",
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "relatedStories": [
+            940,
+            942
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "mainPartExplanationOfRedundancy": "",
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "benefitExplanationOfRedundancy": "In both stories, records should kept in some way.",
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "firstUserStoryTargetPair": [
+                        "keep",
+                        "pages"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "maintain",
+                        "records"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "relatedStories": [
+            797,
+            798
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "mainPartExplanationOfRedundancy": "In both stories, the API User wants to understand something.",
+            "pairsOfTriggersRedundancies": [
+                {
+                    "firstUserStoryTriggerPair": [
+                        "API End-User",
+                        "apprehend"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "API User",
+                        "understand"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "firstUserStoryTargetPair": [
+                        "apprehend",
+                        "user"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "understand",
+                        "user"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "benefitExplanationOfRedundancy": "In both stories, functionality wants to be offered.",
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "firstUserStoryTargetPair": [
+                        "serve",
+                        "operations"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "offer",
+                        "functionality"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "elipsedTimeNs": 13279014200,
+        "repairRuns": 1,
+        "relatedStories": [
+            717,
+            718
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the Publisher wants to publish a dataset.",
+                    "firstUserStoryTriggerPair": [
+                        "Publisher",
+                        "publish"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "Publisher",
+                        "publish"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the Publisher wants to publish a dataset.",
+                    "firstUserStoryTargetPair": [
+                        "publish",
+                        "dataset"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "publish",
+                        "dataset"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14877196200,
+        "repairRuns": 1,
+        "relatedStories": [
+            717,
+            719
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the Publisher wants to perform an action related to account management.",
+                    "firstUserStoryTriggerPair": [
+                        "Publisher",
+                        "sign up"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "Publisher",
+                        "sign up"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the Publisher wants to perform an action related to publishing.",
+                    "firstUserStoryTargetPair": [
+                        "publish",
+                        "dataset"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "publish",
+                        "data package"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4055352900,
+        "repairRuns": 0,
+        "relatedStories": [
+            717,
+            720
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

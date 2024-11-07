@@ -1,0 +1,906 @@
+[
+    {
+        "elipsedTimeNs": 2870273300,
+        "repairRuns": 0,
+        "relatedStories": [
+            1019,
+            1085
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9927148400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1024,
+            1045
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, OlderPerson wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "everything"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED device"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11932649100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1025,
+            1116
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the OlderPerson wants to have something related to ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "small ALFRED device"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, there is a benefit related to setting limits.",
+                    "firstUserStoryTargetPair": [
+                        "set",
+                        "limits"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "set",
+                        "limits"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9222257600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1026,
+            1030
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, OlderPerson wants to have ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED device"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3651889900,
+        "repairRuns": 0,
+        "relatedStories": [
+            1026,
+            1040
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, OlderPerson wants to have ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED device"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 2623849400,
+        "repairRuns": 0,
+        "relatedStories": [
+            1026,
+            1045
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3526733100,
+        "repairRuns": 0,
+        "relatedStories": [
+            1026,
+            1106
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11073801100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1026,
+            1108
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, someone wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "OlderPerson",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "MedicalCaregiver",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to have ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14792507800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1026,
+            1115
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the OlderPerson wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "OlderPerson",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "OlderPerson",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the OlderPerson wants to have ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3977857300,
+        "repairRuns": 0,
+        "relatedStories": [
+            1027,
+            1040
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, OlderPerson wants to have ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED device"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 2533706700,
+        "repairRuns": 0,
+        "relatedStories": [
+            1027,
+            1045
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 2447043400,
+        "repairRuns": 0,
+        "relatedStories": [
+            1027,
+            1048
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 19872074400,
+        "repairRuns": 3,
+        "relatedStories": [
+            1027,
+            1107
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to have ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9176108800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1037,
+            1049
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, an OlderPerson wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "very good battery"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED device"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 6636897200,
+        "repairRuns": 1,
+        "relatedStories": [
+            1038,
+            1105
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9553546300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1040,
+            1068
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, an OlderPerson wants to have an ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED device"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3997758000,
+        "repairRuns": 0,
+        "relatedStories": [
+            1041,
+            1106
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the OlderPerson wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED device"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED shirt"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 18786418500,
+        "repairRuns": 2,
+        "relatedStories": [
+            1042,
+            1049
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the OlderPerson wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "OlderPerson",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "OlderPerson",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to have the ALFRED device.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED device"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED device"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3280681000,
+        "repairRuns": 0,
+        "relatedStories": [
+            1046,
+            1098
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3036545800,
+        "repairRuns": 0,
+        "relatedStories": [
+            1057,
+            1121
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 6834346700,
+        "repairRuns": 1,
+        "relatedStories": [
+            1064,
+            1090
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 6658239800,
+        "repairRuns": 0,
+        "relatedStories": [
+            1075,
+            1108
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to have ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, there is a benefit related to detecting or determining something.",
+                    "firstUserStoryTargetPair": [
+                        "detect",
+                        "falls"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "determine",
+                        "user's body temperature"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 7091767800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1078,
+            1121
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 5601251100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1084,
+            1085
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9332436900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1098,
+            1122
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to have ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11445110200,
+        "repairRuns": 1,
+        "relatedStories": [
+            1106,
+            1116
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the OlderPerson wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED shirt"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11653170100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1110,
+            1129
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the Medical Caregiver wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "MedicalCaregiver",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "MedicalCaregiver",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to have ALFRED.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9527982000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1151,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, a developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, data is involved in the benefit.",
+                    "firstUserStoryTargetPair": [
+                        "read",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "reduce",
+                        "work"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

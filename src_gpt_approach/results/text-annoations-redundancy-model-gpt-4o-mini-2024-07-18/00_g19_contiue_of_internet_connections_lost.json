@@ -1,0 +1,4879 @@
+[
+    {
+        "elipsedTimeNs": 11023418400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1138,
+            1144
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action related to their apps.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "easily create"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to perform actions related to their apps.",
+                    "firstUserStoryTargetPair": [
+                        "easily create",
+                        "apps"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11308513000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1138,
+            1146
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action related to their apps.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "easily create"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to perform actions related to their apps.",
+                    "firstUserStoryTargetPair": [
+                        "easily create",
+                        "apps"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 13215719100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1138,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something related to apps.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "apps"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14508433300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1138,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action easily.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "easily create"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have an easy way to work with something.",
+                    "firstUserStoryTargetPair": [
+                        "easily create",
+                        "apps"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 17182678300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1138,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developers want to take control over something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "easily create"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                },
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developers want to take control over something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "maintain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, developers want to take control over some functions.",
+                    "firstUserStoryTargetPair": [
+                        "easily create",
+                        "apps"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, developers want to take control over some functions.",
+                    "firstUserStoryTargetPair": [
+                        "maintain",
+                        "apps"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12140371900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1138,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to provide something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to provide an easy way.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12256195900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1138,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to achieve something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "easily create"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to work with apps.",
+                    "firstUserStoryTargetPair": [
+                        "easily create",
+                        "apps"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11094163400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1140
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to watch or manage something.",
+                    "firstUserStoryTargetPair": [
+                        "watch",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "manage",
+                        "pricing modality"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9825556000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1141
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to achieve something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to work with feedback.",
+                    "firstUserStoryTargetPair": [
+                        "watch",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 15909679600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1142
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to take action regarding feedback.",
+                    "firstUserStoryTargetPair": [
+                        "enable",
+                        "customers"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to take action regarding feedback.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to take action regarding feedback.",
+                    "firstUserStoryTargetPair": [
+                        "watch",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9911429200,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1144
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to take action based on certain events.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to interact with feedback or state changes.",
+                    "firstUserStoryTargetPair": [
+                        "enable",
+                        "customers"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4929862900,
+        "repairRuns": 0,
+        "relatedStories": [
+            1139,
+            1145
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to achieve something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to watch feedback.",
+                    "firstUserStoryTargetPair": [
+                        "watch",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "detailed information"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11237803300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1146
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action related to the App.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to take action on the App.",
+                    "firstUserStoryTargetPair": [
+                        "enable",
+                        "customers"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11692483400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1147
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action related to the App.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to perform actions related to the App.",
+                    "firstUserStoryTargetPair": [
+                        "enable",
+                        "customers"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10257616600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1148
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to enable or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to watch feedback or define questions.",
+                    "firstUserStoryTargetPair": [
+                        "watch",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "define",
+                        "questions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10718275900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to enable or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have or enable something related to the App.",
+                    "firstUserStoryTargetPair": [
+                        "enable",
+                        "customers"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12156776300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to achieve something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "enable",
+                        "customers"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10053920900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to do something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to watch or read feedback/data.",
+                    "firstUserStoryTargetPair": [
+                        "watch",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "read",
+                        "data"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14899332100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, a developer wants to enable or take control over something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to provide feedback or provide a desired user experience.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "desired user experience"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12687218500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to enable or provide something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to provide an easy way.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 18239928500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1139,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to achieve something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "enable"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to achieve certain goals.",
+                    "firstUserStoryTargetPair": [
+                        "enable",
+                        "customers"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to achieve certain goals.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "reduce",
+                        "work"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to achieve certain goals.",
+                    "firstUserStoryTargetPair": [
+                        "watch",
+                        "feedback"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "achieve",
+                        "goals"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4556203100,
+        "repairRuns": 0,
+        "relatedStories": [
+            1140,
+            1141
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something in a specific way.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4789922100,
+        "repairRuns": 0,
+        "relatedStories": [
+            1140,
+            1142
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to obtain something related to Apps.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "manage pricing modality of my Apps"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4543181000,
+        "repairRuns": 0,
+        "relatedStories": [
+            1140,
+            1144
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, a developer wants to have an easy way to manage something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4331620700,
+        "repairRuns": 0,
+        "relatedStories": [
+            1140,
+            1145
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "detailed information"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11406691900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1140,
+            1146
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to do something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to do something with the App.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9967537300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1140,
+            1147
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have an easy way to manage something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10216637300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1140,
+            1148
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have an easy way.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3369575100,
+        "repairRuns": 0,
+        "relatedStories": [
+            1140,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4876582500,
+        "repairRuns": 0,
+        "relatedStories": [
+            1140,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3253744600,
+        "repairRuns": 0,
+        "relatedStories": [
+            1140,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14027471800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1140,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have/provide an easy way to manage something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have/provide an easy way to manage something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to manage something.",
+                    "firstUserStoryTargetPair": [
+                        "manage",
+                        "pricing modality"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "manage",
+                        "user Settings"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12695032000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1140,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something to manage.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11152040000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1141,
+            1142
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have or obtain something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have or obtain something related to API or Apps development support.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 13378327200,
+        "repairRuns": 1,
+        "relatedStories": [
+            1141,
+            1143
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to know or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "know"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have or know about something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "know",
+                        "fees"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4756226400,
+        "repairRuns": 0,
+        "relatedStories": [
+            1141,
+            1145
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "detailed information"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11572392500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1141,
+            1146
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have or present something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 13221484900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1141,
+            1147
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have or be able to do something related to their work.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have or design something related to their work.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9797551200,
+        "repairRuns": 1,
+        "relatedStories": [
+            1141,
+            1148
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10159805900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1141,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4087682100,
+        "repairRuns": 0,
+        "relatedStories": [
+            1141,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something related to the API.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4287261000,
+        "repairRuns": 0,
+        "relatedStories": [
+            1141,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3194877900,
+        "repairRuns": 0,
+        "relatedStories": [
+            1141,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12278181500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1141,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have or provide something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have or provide something related to an action.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 13209761500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1141,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have an API.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12523770100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1144
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to obtain or be notified about something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to obtain or be notified about Apps.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11269665100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1146
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to obtain or present something related to Apps.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 13027103400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1147
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to obtain or design something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to obtain or design something related to Apps or App.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11886050400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1148
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to obtain or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to obtain or have something related to development support.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14042168000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to obtain or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to obtain or have something related to Apps or App.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11772406400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to obtain/have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to obtain/have support/components.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 16048562700,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to obtain or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to obtain or have something related to Apps development or reading data from health sensors.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12833238500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the user wants to obtain or take control over something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the user wants to obtain or take control over specific functions.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12262416400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to provide or obtain something.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 15516258700,
+        "repairRuns": 1,
+        "relatedStories": [
+            1142,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to obtain or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "obtain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to obtain or have something related to support or API.",
+                    "firstUserStoryTargetPair": [
+                        "obtain",
+                        "Apps development support"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10716678100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1143,
+            1144
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to know or be notified about something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "know"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to know or be notified about specific information.",
+                    "firstUserStoryTargetPair": [
+                        "know",
+                        "fees"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10635698600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1143,
+            1146
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "know"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to know or present something.",
+                    "firstUserStoryTargetPair": [
+                        "know",
+                        "fees"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11376172000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1143,
+            1147
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to know or design something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "know"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to know or design something related to fees or the App.",
+                    "firstUserStoryTargetPair": [
+                        "know",
+                        "fees"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 2767002200,
+        "repairRuns": 0,
+        "relatedStories": [
+            1143,
+            1148
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10850229200,
+        "repairRuns": 1,
+        "relatedStories": [
+            1143,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something granted.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3487405000,
+        "repairRuns": 0,
+        "relatedStories": [
+            1143,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12256606700,
+        "repairRuns": 1,
+        "relatedStories": [
+            1143,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to know or have something.",
+                    "firstUserStoryTargetPair": [
+                        "know",
+                        "fees"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 19010781500,
+        "repairRuns": 2,
+        "relatedStories": [
+            1143,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developers want to know or take control over something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "know"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, developers want to know or take control over something related to their tasks.",
+                    "firstUserStoryTargetPair": [
+                        "know",
+                        "fees"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3562234200,
+        "repairRuns": 0,
+        "relatedStories": [
+            1143,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11103348100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1143,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have or know something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "know"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have or know something specific.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "know",
+                        "fees"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12160900000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1145
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to be notified or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to be notified or have detailed information.",
+                    "firstUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "detailed information"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10984609800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1146
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to take action on their Apps.",
+                    "firstUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 13442834400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1147
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to take an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11255840300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1148
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to be notified or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10869486500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to be notified or have something related to their Apps.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants something related to their Apps.",
+                    "firstUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12532583400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something on a high level.",
+                    "firstUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 13558632600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to be notified or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12660622800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developers want to take control or be notified about something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developers want to take control over something.",
+                    "firstUserStoryTargetPair": [
+                        "be notified",
+                        "when"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11462967900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "be notified"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to provide something.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12001992900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1144,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14088444000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1145,
+            1146
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to perform an action on the App.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "detailed information"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14083580800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1145,
+            1148
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have an easy way to do something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3853138800,
+        "repairRuns": 0,
+        "relatedStories": [
+            1145,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something related to the App.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14948515900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1145,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have an easy way.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 8504231300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1145,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to provide something.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12299292800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1146,
+            1147
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to present or design something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to present or design an App.",
+                    "firstUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 19653948000,
+        "repairRuns": 2,
+        "relatedStories": [
+            1146,
+            1148
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to present or define something.",
+                    "firstUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9613436300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1146,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to present or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to present or have the App.",
+                    "firstUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3374845000,
+        "repairRuns": 0,
+        "relatedStories": [
+            1146,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 20906911500,
+        "repairRuns": 2,
+        "relatedStories": [
+            1146,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to present or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to present or have something related to the App.",
+                    "firstUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 13075527700,
+        "repairRuns": 1,
+        "relatedStories": [
+            1146,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, developers want to present or take control over something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, developers want to present or take control over something.",
+                    "firstUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12414490900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1146,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to present/provide something.",
+                    "firstUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11491659400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1146,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to achieve something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "present"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have or present something.",
+                    "firstUserStoryTargetPair": [
+                        "present",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3100436200,
+        "repairRuns": 0,
+        "relatedStories": [
+            1147,
+            1148
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 15080657500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1147,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to do something with the App.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to work with the App.",
+                    "firstUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11896260500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1147,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something on a certain level.",
+                    "firstUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14624678600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1147,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to work with data.",
+                    "firstUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 20478373600,
+        "repairRuns": 2,
+        "relatedStories": [
+            1147,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developers want to take control or design something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developers want to take control over something.",
+                    "firstUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12462390800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1147,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to provide something.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 19095257700,
+        "repairRuns": 2,
+        "relatedStories": [
+            1147,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "design"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to achieve something.",
+                    "firstUserStoryTargetPair": [
+                        "design",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10680759600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1148,
+            1149
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something related to access.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12738716500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1148,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something on a high level.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14009963600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1148,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have an easy way to do something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have an easy way to do something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12969389900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1148,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developers want to have control over something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developers want to take control over something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 14613180500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1148,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have/provide something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have/provide an easy way.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, questions are defined and user Settings are managed.",
+                    "firstUserStoryTargetPair": [
+                        "define",
+                        "questions"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "manage",
+                        "user Settings"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11749505100,
+        "repairRuns": 1,
+        "relatedStories": [
+            1148,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something specific.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4849221300,
+        "repairRuns": 0,
+        "relatedStories": [
+            1149,
+            1150
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 13599032500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1149,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10669674000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1149,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to have control over something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12203210700,
+        "repairRuns": 1,
+        "relatedStories": [
+            1149,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to perform an action on something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10890055900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1149,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "App"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 15415789800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1150,
+            1151
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something on a high level.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3663179100,
+        "repairRuns": 0,
+        "relatedStories": [
+            1150,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3097027200,
+        "repairRuns": 0,
+        "relatedStories": [
+            1150,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11883000900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1150,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "API components"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 22192463700,
+        "repairRuns": 2,
+        "relatedStories": [
+            1151,
+            1152
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developers want to have control over something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "serious games developer",
+                        "take control"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developers want to have control over something.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "take control",
+                        "some functions"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": [
+                {
+                    "descriptionOfContainPairRedundancies": "In both stories, the data is related to health sensors and the user.",
+                    "firstUserStoryContainPair": [
+                        "health sensors",
+                        "data"
+                    ],
+                    "secondUserStoryContainPair": [
+                        "user",
+                        "health sensors"
+                    ]
+                }
+            ]
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 20069273100,
+        "repairRuns": 2,
+        "relatedStories": [
+            1151,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have something specific.",
+                    "firstUserStoryTargetPair": [
+                        "have",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3207666900,
+        "repairRuns": 0,
+        "relatedStories": [
+            1152,
+            1153
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 11426743800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1153,
+            1155
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the developer wants to provide or have something.",
+                    "firstUserStoryTriggerPair": [
+                        "developer",
+                        "provide"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "developer",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the developer wants to have or provide something.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "easy way"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "ALFRED API"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

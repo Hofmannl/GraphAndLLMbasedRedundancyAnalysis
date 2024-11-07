@@ -1,0 +1,32 @@
+[
+    {
+        "elipsedTimeNs": 1000,
+        "relatedStories": [590, 591],
+        "redundantMainPart": true, 
+        "mainPartRedundancies": [
+            {
+                "redundancyTitel": "Dummy Value",
+                "reasonDescription": "Dummy Value Describtion",
+                "referenceToOriginalText": ["As a User, I want to verify myself", "As an application User, I want to verify that I am who I am"]
+            },
+            {
+                "redundancyTitel": "Testing possibilities",
+                "reasonDescription": "The redundancy here stems from the repetition of the testing action and the tested entity, expressed in slightly different ways, likely for emphasis or to accommodate different perspectives",
+                "referenceToOriginalText": ["As a software tester, I want to begin user testing", "As a tester, I want to begin testing the software"]
+            }
+        ],
+        "redundantBenefit": true, 
+        "benefitRedundancies": [
+            {
+                "redundancyTitel": "User login button",
+                "reasonDescription": "The redundancy in these sentences lies in the repetition of the action ('login') and the destination ('webpage' and 'website'), which convey the same idea using slightly different wording.",
+                "referenceToOriginalText": ["I can login into the webpage.", "I could login into the website"]
+            },
+            {
+                "redundancyTitel": "Dummy Value",
+                "reasonDescription": "Dummy Value Describtion",
+                "referenceToOriginalText": ["I can print a document", "I can give the order to print"]
+            }
+        ]
+    }
+]

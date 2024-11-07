@@ -1,0 +1,114 @@
+[
+    {
+        "elipsedTimeNs": 19660100600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1365,
+            1366
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the depositor wants to perform actions related to datasets.",
+                    "firstUserStoryTriggerPair": [
+                        "depositor",
+                        "deposit"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "depositor",
+                        "have"
+                    ]
+                },
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the depositor wants to perform actions related to datasets.",
+                    "firstUserStoryTriggerPair": [
+                        "depositor",
+                        "maintain"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "depositor",
+                        "have"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the depositor wants to perform actions on datasets.",
+                    "firstUserStoryTargetPair": [
+                        "deposit",
+                        "datasets"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "user interface"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the depositor wants to perform actions on datasets.",
+                    "firstUserStoryTargetPair": [
+                        "maintain",
+                        "datasets"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "have",
+                        "user interface"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 5300962400,
+        "repairRuns": 0,
+        "relatedStories": [
+            1365,
+            1367
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 5237371600,
+        "repairRuns": 0,
+        "relatedStories": [
+            1365,
+            1368
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "elipsedTimeNs": 13103295000,
+        "repairRuns": 0,
+        "relatedStories": [
+            408,
+            409
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the API User wants to normalise something.",
+                    "firstUserStoryTriggerPair": [
+                        "API User",
+                        "normalise"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "API User",
+                        "normalise"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the API User wants to normalise measures.",
+                    "firstUserStoryTargetPair": [
+                        "normalise",
+                        "measures"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "normalise",
+                        "measures"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the API User wants to work with datasets.",
+                    "firstUserStoryTargetPair": [
+                        "work",
+                        "datasets"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "work",
+                        "datasets"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

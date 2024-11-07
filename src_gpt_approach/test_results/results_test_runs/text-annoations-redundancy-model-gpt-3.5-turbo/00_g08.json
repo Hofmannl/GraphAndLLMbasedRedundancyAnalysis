@@ -1,0 +1,114 @@
+[
+    {
+        "elipsedTimeNs": 8121611800,
+        "repairRuns": 0,
+        "relatedStories": [
+            426,
+            427
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the benefit is to start using the data for doing analysis and visualizations.",
+                    "firstUserStoryTargetPair": [
+                        "start using",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "start using",
+                        "data"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the benefit is to do analysis on the data.",
+                    "firstUserStoryTargetPair": [
+                        "doing",
+                        "analysis"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "doing",
+                        "analysis"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the benefit is to do visualizations on the data.",
+                    "firstUserStoryTargetPair": [
+                        "doing",
+                        "visualizations"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "doing",
+                        "visualizations"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4653515100,
+        "repairRuns": 0,
+        "relatedStories": [
+            426,
+            428
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 5263943600,
+        "repairRuns": 0,
+        "relatedStories": [
+            426,
+            429
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to provide analysis.",
+                    "firstUserStoryTargetPair": [
+                        "provide",
+                        "analysis"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "provide",
+                        "analysis"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

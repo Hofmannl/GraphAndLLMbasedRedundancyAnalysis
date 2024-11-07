@@ -1,0 +1,231 @@
+### Old Input Examples
+
+[{"PID": "#G02#",
+"USID": "217",
+"Text": "As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.",
+"Main Part": "As a UI designer, I want to report to the Agencies about user testing",
+"Benefit": "they are aware of their contributions to making Broker a better UX",
+"Triggers": {"Main Part": [["UI designer", "report"]], "Benefit": []},
+"Targets": {"Main Part": [["report", "user testing"]],
+"Benefit": [["aware", "contributions"], ["making", "Broker"]]},
+"Contains": {"Main Part": [], "Benefit": []}},
+
+
+{"PID": "#G04#",
+"USID": "1",
+"Text": " As a user, I want to be able to view a map display of the public recycling bins around my area.",
+"Main Part": "As a user, I want to be able to view a map display of the public recycling bins around my area.",
+"Benefit": "",
+"Triggers": {"Main Part": [["user", "view"]], "Benefit": []},
+"Targets": {"Main Part": [["view", "map display"]],
+"Benefit": []},
+"Contains": {"Main Part": [["map display", "public recycling bins"], ["map display", "area"]], "Benefit": []}}, 
+
+{"PID": "#G04#",
+"USID": "2",
+"Text": " As a user, I want to be able to view a map display of the special waste drop off sites around my area.",
+"Main Part": "As a user, I want to be able to view a map display of the special waste drop off sites around my area.",
+"Benefit": "",
+"Triggers": {"Main Part": [["user", "view"]], "Benefit": []},
+"Targets": {"Main Part": [["view", "map display"]],"Benefit": []},
+"Contains": {"Main Part": [["map display", "special waste drop off sites"], ["map display", "area"]], "Benefit": []}}, 
+
+
+
+{"PID": "#G04#",
+"USID": "3",
+"Text": " As a Publisher, I want to publish a dataset, so that I can view just the dataset with a few people.",
+"Main Part": "As a Publisher, I want to publish a dataset",
+"Benefit": " I can view just the dataset with a few people",
+"Triggers": {"Main Part": [["Publisher", "publish"]], "Benefit": []},
+"Targets": {"Main Part": [["publish", "dataset"]],"Benefit": [["view", "dataset"]]},
+"Contains": {"Main Part": [], "Benefit": []}},
+
+{"PID": "#G04#",
+"USID": "4",
+"Text": " As a Publisher, I want to publish a dataset, so that I can share the dataset publicly with everyone.",
+"Main Part": "As a Publisher, I want to publish a dataset",
+"Benefit": "I can share the dataset publicly with everyone",
+"Triggers": {"Main Part": [["Publisher", "publish"]], "Benefit": []},
+"Targets": {"Main Part": [["publish", "dataset"]],"Benefit": [["share", "dataset"]]},
+"Contains": {"Main Part": [], "Benefit": [["everyone", "dataset"]]}},
+
+
+
+{"PID": "#G04#",
+"USID": "5",
+"Text": " As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.",
+"Main Part": "As a Staff member, I want to Assign an Application for Detailed Review",
+"Benefit": "I can review the for compliance and subsequently approved or denied",
+"Triggers": {"Main Part": [["Staff member", "Assign"]], "Benefit": []},
+"Targets": {"Main Part": [["Assign, Application"]],
+"Benefit": [["review", "compliance"], ["subsequently approved", "compliance"], ["denied", "compliance"]]},
+"Contains": {"Main Part": [["Application", "Detailed Review"]], "Benefit": []}},
+
+{"PID": "#G04#",
+"USID": "6",
+"Text": "  As a Plan Review Staff member, I want to Review Plans, so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant.",
+"Main Part": "As a Plan Review Staff member, I want to Review Plans",
+"Benefit": "so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant",
+"Triggers": {"Main Part": [["Plan Review Staff member", "Review"]], "Benefit": []},
+"Targets": {"Main Part": [["Review", "Plans"]],
+"Benefit": [["review", "compliance"], ["approve", "plans"], ["fail", "plans"], ["deny", "plans"], ["record", "clearances"], ["record", "corrections"], ["record", "any conditions"]]},
+"Contains": {"Main Part": [], "Benefit": [["Applicant", "plans"], ["plans", "clearences"], ["plans", "corrections"], ["plans", "any conditions"]]}},
+
+
+{"PID": "#G04#",
+"USID": "7",
+"Text": "  As an admin, I want to view a dashboard that monitors all the sites' statuses, so that I can have a sense of what people are doing on our sites.",
+"Main Part": "As an admin, I want to view a dashboard that monitors all the sites' statuses",
+"Benefit": "so that I can have a sense of what people are doing on our sites",
+"Triggers": {"Main Part": [["admin", "view"]], "Benefit": []},
+"Targets": {"Main Part": [["view", "dashboard"], ["monitor", "sites' statuses"]],
+"Benefit": [["have", "sense"]]},
+"Contains": {"Main Part": [["dashboard", "sites' statuses"]], "Benefit": []}},
+
+{"PID": "#G04#",
+"USID": "8",
+"Text": "  As an executive, I want to have full access to data related to my company, so that I can have a sense of my company's performance.",
+"Main Part": "As an executive, I want to have full access to data related to my company",
+"Benefit": "so that I can have a sense of my company's performance",
+"Triggers": {"Main Part": [["executive", "have"]], "Benefit": []},
+"Targets": {"Main Part": [["have", "full access"]],
+"Benefit": [["have", "sense"]]},
+"Contains": {"Main Part": ["data related to my company", "full access"], "Benefit": []}}
+
+
+
+]
+
+
+### Old Output Examples
+
+// [{
+//   "relatedStories": [1, 2],
+//   "mainPartRedundancies": {
+//                  "partialRedundancy": true,
+//                  "fullRedundancy": false,
+//                  "pairsOfTriggersRedundancies": [
+//                                ["descriptionOfTriggersRedundancies": "In both stories, the user wants to view something.", 
+//                                               "triggersFirstUserSory": ["user", "view"],
+//                                               "triggersSecondUserSory": ["user", "view"]
+//                                ]
+                              
+//                  ],
+//                  "pairsOfTargetsRedundancies": [
+//                                ["descriptionOfTargetsRedundancies": "In both stories, the user wants to view a map display.", 
+//                                               "targetsFirstUserSory": ["view", "map display"],
+//                                               "TargetsSecondUserSory": ["view", "map display"],
+//                                ]
+                               
+//                  ],
+//                  "pairsOfContainsRedundancies": [
+//                                ["descriptionOfContainsRedundancies": "In both stories, the user wants to view a map display that that shows something in their area.", 
+//                                               "containsFirstUserSory": ["map display", "area"],
+//                                               "containsSecondUserSory": ["map display", "area"],
+//                                ]
+//                  ],
+//   },
+//   "benefitRedundancies": {
+//                  "partialRedundancy": false,
+//                  "fullRedundancy": false,
+//                  "pairsOfTriggersRedundancies": [       
+//                  ],
+//                  "pairsOfTargetsRedundancies": [
+//                  ],
+//                  "pairsOfContainsRedundancies": [
+//                  ]
+//   }
+// }, 
+
+// {
+//   "relatedStories": [3, 4],
+//   "mainPartRedundancies": {
+//                  "partialRedundancy": true,
+//                  "fullRedundancy": true,
+//                  "pairsOfTriggersRedundancies": [
+//                                ["descriptionOfTriggersRedundancies": "In both stories, the Publisher wants to publish something.", 
+//                                               "triggersFirstUserSory": ["Publisher", "publish"],
+//                                               "triggersSecondUserSory": ["Publisher", "publish"]
+//                                ]
+                              
+//                  ],
+//                  "pairsOfTargetsRedundancies": [
+//                                ["descriptionOfTargetsRedundancies": "In both stories, a dataset is published", 
+//                                               "targetsFirstUserSory": ["publish", "dataset"],
+//                                               "TargetsSecondUserSory": ["publish", "dataset"],
+//                                ]
+                               
+//                  ],
+//                  "pairsOfContainsRedundancies": [
+//                  ]
+//   },
+//   "benefitRedundancies": {
+//                  "partialRedundancy": false,
+//                  "fullRedundancy": false,
+//                  "pairsOfTriggersRedundancies": [       
+//                  ],
+//                  "pairsOfTargetsRedundancies": [
+//                  ],
+//                  "pairsOfContainsRedundancies": [
+//                  ]
+//   }
+// },
+
+// {
+//   "relatedStories": [5, 6],
+//   "mainPartRedundancies": {
+//                  "partialRedundancy": false,
+//                  "fullRedundancy": false,
+//                  "pairsOfTriggersRedundancies": [
+//                  ],
+//                  "pairsOfTargetsRedundancies": [
+//                  ],
+//                  "pairsOfContainsRedundancies": [
+//                  ]
+//   },
+//   "benefitRedundancies": {
+//                  "partialRedundancy": true,
+//                  "fullRedundancy": false,
+//                  "pairsOfTriggersRedundancies": [       
+//                  ],
+//                  "pairsOfTargetsRedundancies": [
+//                       ["descriptionOfTargetsRedundancies": "In both stories, compliance wants to be reviewed.", 
+//                                   "targetsFirstUserSory": ["review", "compliance"],
+//                                   "TargetsSecondUserSory": ["review", "compliance"],
+//                       ]
+//                  ],
+//                  "pairsOfContainsRedundancies": [
+//                  ]
+//   }
+// },
+
+// {
+//   "relatedStories": [7, 8],
+//   "mainPartRedundancies": {
+//                  "partialRedundancy": false,
+//                  "fullRedundancy": false,
+//                  "pairsOfTriggersRedundancies": [
+//                  ],
+//                  "pairsOfTargetsRedundancies": [
+//                  ],
+//                  "pairsOfContainsRedundancies": [
+//                  ]
+//   },
+//   "benefitRedundancies": {
+//                  "partialRedundancy": true,
+//                  "fullRedundancy": true,
+//                  "pairsOfTriggersRedundancies": [       
+//                  ],
+//                  "pairsOfTargetsRedundancies": [
+//                       ["descriptionOfTargetsRedundancies": "The purpose of both stories is to deliver some sense to the persona.", 
+//                                   "targetsFirstUserSory": ["have", "sense"],
+//                                   "TargetsSecondUserSory": ["have", "sense"]
+//                       ]
+//                  ],
+//                  "pairsOfContainsRedundancies": [
+//                  ]
+//   }
+// }
+
+// ]

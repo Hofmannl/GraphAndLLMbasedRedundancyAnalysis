@@ -1,0 +1,189 @@
+
+
+
+
+------------
+Current Exception-Count: 20
+----
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1138", "USID2": "1144"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1138", "USID2": "1147"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1139", "USID2": "1149"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1143", "USID2": "1147"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1143", "USID2": "1151"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1143", "USID2": "1155"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1144", "USID2": "1145"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1144", "USID2": "1147"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1144", "USID2": "1150"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1145", "USID2": "1147"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1145", "USID2": "1150"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1145", "USID2": "1151"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1145", "USID2": "1152"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1145", "USID2": "1155"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1146", "USID2": "1149"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1149", "USID2": "1151"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1149", "USID2": "1155"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1150", "USID2": "1155"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1151", "USID2": "1152"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1151", "USID2": "1153"}
+------------
+
+
+
+
+
+
+
+------------
+Current Exception-Count: 15
+----
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1138", "USID2": "1147"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1138", "USID2": "1148"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1138", "USID2": "1149"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1139", "USID2": "1143"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1140", "USID2": "1143"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1140", "USID2": "1151"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1141", "USID2": "1144"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1142", "USID2": "1143"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1142", "USID2": "1145"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1143", "USID2": "1145"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1145", "USID2": "1147"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1145", "USID2": "1150"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1145", "USID2": "1152"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1145", "USID2": "1155"}
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "1151", "USID2": "1153"}
+------------
+
+
+

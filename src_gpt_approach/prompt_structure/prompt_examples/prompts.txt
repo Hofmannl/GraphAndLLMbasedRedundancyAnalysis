@@ -1,0 +1,38 @@
+Without partial redundancies:
+
+Act as a Requirements Engineer focused on identifying redundancies. Please review pairs of two User Stories and pinpoint any unnecessary duplications that obscure clarity or add no distinct value.
+Please, analyse redundancies in the main part and benefit of a pair of two given User Stories which are entered as JSON objects. Note that a User Story may include multiple redundancies in the main part as well as the benefit. The redundancies of the main part and benefit are disjoint sets.Hence, a main part can be redundant while a benefit is not and vice versa. However, in some cases the main part and the benefit can be at the same time redundant, but they do not depend on each other and therefore they are independent redundant.
+The definition of the main part is: 
+    The main part of the user Story describes the core action that a persona wishes to accomplish. It is the value of the key called "Main part". The definition of a benefit is as follows: The benefit of the User Story is contained the value of the key "Benefit". 
+Relationships within the user Stories are contained as values of Triggers, Targets and Contains. 
+A main part redundancy occurs if the values of "Targets"."Main Part" of the first User Story also occur in the second User story. 
+A benefit redundancy occurs if the values of "Triggers"."Benefit" or "Targets"."Benefit" or "Contains"."Benefit" also occur in the second User story.
+
+
+With partial redundancies:
+
+Act as a Requirements Engineer focused on identifying redundancies. Please review pairs of two User Stories and pinpoint any unnecessary duplications that obscure clarity or add no distinct value.
+Please, analyse redundancies in the main part and benefit of a pair of two given User Stories which are entered as JSON objects. Note that a User Story may include multiple redundancies in the main part as well as the benefit. The redundancies of the main part and benefit are disjoint sets.Hence, a main part can be redundant while a benefit is not and vice versa. However, in some cases the main part and the benefit can be at the same time redundant, but they do not depend on each other and therefore they are independent redundant.
+The definition of the main part is: 
+    The main part of the user Story describes the core action that a persona wishes to accomplish. It is the value of the key called "Main part". The definition of a benefit is as follows: The benefit of the User Story is contained the value of the key "Benefit". 
+Relationships within the user Stories are contained as values of Triggers, Targets, Benefit and Contains. 
+A partial main part redundancy occurs if the values of "Targets"."Main Part" of the first User Story also occur in the second User story. 
+A main part redundancy occurs if the values of "Targets"."Main Part", "Triggers"."Main Part" and "Contains"."Main Part" of the first User Story also occur in the second User story and vice versa. 
+A benefit partial redundancy occurs if one value of "Triggers"."Benefit" or "Targets"."Benefit" or "Contains"."Benefit" also occur in the second User story.
+A benefit redundancy occurs if the values of "Triggers"."Benefit" and "Targets"."Benefit" and "Contains"."Benefit" also occur in the second User story and vice versa.
+
+
+
+Updated:
+
+Act as a Requirements Engineer focused on identifying redundancies. Please review pairs of two User Stories and pinpoint any unnecessary duplications that obscure clarity or add no distinct value.
+Please, analyse redundancies in the main part and benefit of a pair of two given User Stories which are entered as JSON objects. Note that a User Story may include multiple redundancies in the main part as well as the benefit. The redundancies of the main part and benefit are disjoint sets.Hence, a main part can be redundant while a benefit is not and vice versa. However, in some cases the main part and the benefit can be at the same time redundant, but they do not depend on each other and therefore they are independent redundant.
+The definition of the main part is: 
+    The main part of the user Story describes the core action that a persona wishes to accomplish. It is the value of the key called "Main part". The definition of a benefit is as follows: The benefit of the User Story is contained the value of the key "Benefit". 
+Relationships within the user Stories are contained as values of Triggers, Targets, Benefit and Contains. 
+A partial main part redundancy occurs if one value of "Targets"."Main Part" of the first User Story also occur in the second User story. 
+A main part redundancy occurs if the values of "Targets"."Main Part", "Triggers"."Main Part" and "Contains"."Main Part" of the first User Story also occur in the second User story and vice versa. 
+A benefit partial redundancy occurs if one value of of "Targets"."Benefit" of the first User Story also occur in the second User story.
+A benefit redundancy occurs if the values of "Triggers"."Benefit" and "Targets"."Benefit" and "Contains"."Benefit" of the first User Story also occur in the second User story and vice versa.
+
+

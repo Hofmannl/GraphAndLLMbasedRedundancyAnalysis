@@ -1,0 +1,7193 @@
+[
+    {
+        "redundant": true,
+        "relatedStories": [
+            315,
+            316
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories involve the action of searching or researching information through an online interface, albeit for slightly different purposes.",
+                "redundancyDescription": "Information Search",
+                "referenceToOriginalText": [
+                    "As a Public User, I want to Search for Information",
+                    "As a ProspectiveApplicant, I want to research requirements and to select a service"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both stories emphasize the user's need to access specific information to proceed with further actions, whether it's general information or service-specific details.",
+                "redundancyDescription": "Accessing Information to Initiate Actions",
+                "referenceToOriginalText": [
+                    "so that I can obtain publicly available information concerning properties, County services, processes and other general information.",
+                    "so that I can find the relevant service and/or application type to initiate via the online portal."
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            317
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            318
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            319
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            320
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            321
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            322
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            323
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            324
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            315,
+            367
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories involve a search functionality, albeit for slightly different users and scopes. The core action of searching for information is duplicated with different specifics.",
+                "redundancyDescription": "Search Functionality",
+                "referenceToOriginalText": [
+                    "As a Public User, I want to Search for Information",
+                    "As a Staff member, I want to search for Property information"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both stories emphasize obtaining information as a benefit, though the type of information and its detail vary.",
+                "redundancyDescription": "Obtaining Information",
+                "referenceToOriginalText": [
+                    "so that I can obtain publicly available information concerning properties, County services, processes and other general information.",
+                    "so that I can obtain all associated current and historic owners, permits, and applications."
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            315,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            317
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            318
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            319
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            320
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            321
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            322
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            323
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            324
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            316,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            318
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            319
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            320
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            321
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            322
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            323
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            324
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            317,
+            351
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "The redundancy arises from the repetition of the concept of requesting assistance or a meeting from a specific department or staff, which is essentially the same action aimed at initiating a dialogue for assistance.",
+                "redundancyDescription": "Request for assistance or meeting",
+                "referenceToOriginalText": [
+                    "As an Applicant, I want to Request PreApplication Assistance",
+                    "As an Applicant, I want to Request a Plan Review Meeting"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories emphasize the benefit of meeting with staff to discuss specific issues or plans, which essentially provides the same advantage of direct communication and personalized assistance.",
+                "redundancyDescription": "Meeting with staff for assistance",
+                "referenceToOriginalText": [
+                    "so that I can receive a response to a request for a meeting or information that is a result of the preapplication assistance.",
+                    "so that I can meet with the Plan Review Staff regarding the plan review."
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            317,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            319
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            320
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            321
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            322
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            323
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            324
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            318,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            319,
+            320
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "The redundancy arises from the repetition of the submission process by the applicant, described in slightly different contexts but essentially focusing on the same action of providing documents.",
+                "redundancyDescription": "Submission of documents",
+                "referenceToOriginalText": [
+                    "As an Applicant, I want to Submit Application",
+                    "As an Applicant, I want to Submit Supporting Documentation"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both stories emphasize the applicant's need to provide information or documents to initiate or complete a transaction, essentially serving the same purpose of satisfying application requirements.",
+                "redundancyDescription": "Satisfying application requirements",
+                "referenceToOriginalText": [
+                    "so that I can provide my information, plans and/or documents to initiate a transaction with the County.",
+                    "so that I can satisfy documentation requirements for my application."
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            321
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            322
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            323
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            324
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            319,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            321
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            322
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            323
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            324
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            320,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            322
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            323
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            324
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            321,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            323
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            324
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            322,
+            350
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "The redundancy arises from the repetition of the concept of managing and checking statuses related to service levels in different roles, which could be streamlined into a single story for clarity.",
+                "redundancyDescription": "Service Level Management",
+                "referenceToOriginalText": [
+                    "As an Applicant, I want to Check the Status of a transaction",
+                    "As a Plan Review Staff Supervisor, I want to Manage Plan Reviewer Workload"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both stories emphasize the need to monitor and understand service levels, which could be considered redundant as they aim to ensure that service levels are met.",
+                "redundancyDescription": "Ensuring Service Levels",
+                "referenceToOriginalText": [
+                    "so that I can understand where the provisioning of my service is in the process, such as information related to service levels",
+                    "so that I can monitor and effectively adjust workload as necessary and ensure service levels are met"
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            322,
+            356
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories involve monitoring the progress of a process related to plan reviews and permits, but from different user perspectives.",
+                "redundancyDescription": "Tracking process status",
+                "referenceToOriginalText": [
+                    "As an Applicant, I want to Check the Status of a transaction",
+                    "As a Plan Review Staff member, I want to Track the Completion of Required Plan Reviews"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both stories emphasize ensuring that all necessary steps in the plan review process are completed and communicated, although targeted at different users.",
+                "redundancyDescription": "Ensure completion and communication of plan review steps",
+                "referenceToOriginalText": [
+                    "so that I can understand where the provisioning of my service is in the process",
+                    "so that I can ensure all plan review tasks are completed, results have been sent to the Applicant"
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            322,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            324
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            323,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            325
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            324,
+            338
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "The redundancy arises from the repetition of the 'Perform a Review' action by a Staff member, albeit for slightly different purposes (completeness and compliance).",
+                "redundancyDescription": "Review Performance by Staff",
+                "referenceToOriginalText": [
+                    "As a Staff member, I want to Perform a Completeness Review",
+                    "As a Staff member, I want to Perform a Staff Review"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories emphasize the validation of an application, although for different aspects (completeness and compliance), the core benefit of validation is redundantly expressed.",
+                "redundancyDescription": "Application Validation",
+                "referenceToOriginalText": [
+                    "so that I can validate when an application is complete",
+                    "so that I can validate compliance of an application"
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            324,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            326
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            325,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            327
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            326,
+            337
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "The redundancy arises from the repetition of the review process for applications or plans, expressed in slightly different contexts but essentially aiming for compliance and approval.",
+                "redundancyDescription": "Review Process for Compliance",
+                "referenceToOriginalText": [
+                    "As a Staff member, I want to Assign an Application for Detailed Review",
+                    "As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both stories emphasize the need to complete a review process to ensure compliance or consistency, which is a necessary step before making a final decision on the application or plan.",
+                "redundancyDescription": "Ensuring Compliance through Review",
+                "referenceToOriginalText": [
+                    "so that I can review the for compliance and subsequently approved or denied.",
+                    "so that I can complete my required review of a plan set and/or application."
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            326,
+            338
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories describe the action of a staff member reviewing an application for compliance, which leads to a decision on approval or denial. The main actions and objectives overlap significantly.",
+                "redundancyDescription": "Application Review for Compliance",
+                "referenceToOriginalText": [
+                    "As a Staff member, I want to Assign an Application for Detailed Review",
+                    "As a Staff member, I want to Perform a Staff Review"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both stories emphasize the staff member's role in validating compliance which impacts the decision to approve or deny the application. The benefits described are essentially the same, focusing on the compliance review process leading to an approval or denial decision.",
+                "redundancyDescription": "Compliance Review Impacting Approval/Denial",
+                "referenceToOriginalText": [
+                    "so that I can review the for compliance and subsequently approved or denied",
+                    "so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly"
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            326,
+            349
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "The redundancy arises from the repetition of the assignment action for review purposes, expressed in slightly different contexts but essentially aiming to allocate tasks for further examination.",
+                "redundancyDescription": "Assignment for Review",
+                "referenceToOriginalText": [
+                    "As a Staff member, I want to Assign an Application for Detailed Review",
+                    "As a Plan Review Staff member, I want to Assign Plans for Review"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories emphasize the allocation of review tasks to ensure proper examination and compliance, though the context slightly differs (application vs. plans).",
+                "redundancyDescription": "Ensure proper review and compliance",
+                "referenceToOriginalText": [
+                    "so that I can review the for compliance and subsequently approved or denied.",
+                    "so that I can ensure plans have been assigned to the appropriate Plan Reviewer."
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            326,
+            353
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories describe the action of reviewing for compliance, but they are framed in slightly different contexts (Assigning for review vs. Reviewing plans directly).",
+                "redundancyDescription": "Review for compliance",
+                "referenceToOriginalText": [
+                    "As a Staff member, I want to Assign an Application for Detailed Review",
+                    "As a Plan Review Staff member, I want to Review Plans"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both stories emphasize the review process for compliance and the decision-making (approve, deny) based on that review, though one includes more detail on possible outcomes and requirements.",
+                "redundancyDescription": "Review for compliance and decision-making",
+                "referenceToOriginalText": [
+                    "so that I can review the for compliance and subsequently approved or denied",
+                    "so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant"
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            326,
+            355
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories involve a staff member reviewing an application or request, which is a similar process described in different contexts.",
+                "redundancyDescription": "Review Process by Staff",
+                "referenceToOriginalText": [
+                    "As a Staff member, I want to Assign an Application for Detailed Review",
+                    "As a Plan Review Staff Member, I want to Review the Code Modifications submitted by the Applicant"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both stories emphasize the review for approval purposes, which is essentially the same benefit expressed with slight variations.",
+                "redundancyDescription": "Review for Approval",
+                "referenceToOriginalText": [
+                    "so that I can review the for compliance and subsequently approved or denied.",
+                    "so that I can review the request and if approved, associate it with the appropriate project."
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            326,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            328
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "The redundancy here arises from the repetition of the desired control over workflow progression, expressed in both applying and removing holds, which are essentially two sides of the same functionality.",
+                "redundancyDescription": "Control over workflow progression",
+                "referenceToOriginalText": [
+                    "so that I can prevent progression through the workflow or other actions in the system until the issue is resolved.",
+                    "so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved."
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            327,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            329
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            328,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            330
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            329,
+            339
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories involve the action of sending a response to an applicant, although described with different terminology (Send a Formal Response vs. send a communication).",
+                "redundancyDescription": "Sending communication to Applicant",
+                "referenceToOriginalText": [
+                    "As a Staff member, I want to Send a Formal Response to Applicant",
+                    "As a Zoning Staff member, I want to ... send a communication from the system to the Applicant"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories aim to ensure communication with the applicant and record-keeping, though one emphasizes capturing the response in the system.",
+                "redundancyDescription": "Communication and records responsibilities",
+                "referenceToOriginalText": [
+                    "so that I can satisfy communication and records responsibilities",
+                    "so that I can capture my response to the request in the system and also send a communication from the system to the Applicant"
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": true,
+        "relatedStories": [
+            329,
+            366
+        ],
+        "mainPartRedundancies": [
+            {
+                "reasonDescribtion": "The redundancy arises from the similar actions of sending formal communications, which are described using different terms ('Send a Formal Response' and 'Issue a Notice of Violation') but essentially represent the same functionality within the context of staff duties.",
+                "redundancyDescription": "Formal communication by staff",
+                "referenceToOriginalText": [
+                    "As a Staff member, I want to Send a Formal Response to Applicant",
+                    "As an Enforcement Staff member, I want to Issue a Notice of Violation"
+                ]
+            }
+        ],
+        "benefitRedundancies": [
+            {
+                "reasonDescribtion": "Both User Stories emphasize the benefit of providing formal communication, though the context slightly varies (to an applicant vs. to a responsible party), the underlying benefit of fulfilling communication responsibilities remains consistent.",
+                "redundancyDescription": "Fulfilling formal communication responsibilities",
+                "referenceToOriginalText": [
+                    "so that I can satisfy communication and records responsibilities",
+                    "so that I can provide formal communication to the responsible party"
+                ]
+            }
+        ]
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            367
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            368
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            369
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            370
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            371
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            329,
+            372
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            331
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            332
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            333
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            334
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            335
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            336
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            337
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            338
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            339
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            340
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            341
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            342
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            343
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            344
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            345
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            346
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            347
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            348
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            349
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            350
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            351
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            352
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            353
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            354
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            355
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            356
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            357
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            358
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            360
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            361
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            362
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            363
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            364
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            365
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    },
+    {
+        "redundant": false,
+        "relatedStories": [
+            330,
+            366
+        ],
+        "mainPartRedundancies": [],
+        "benefitRedundancies": []
+    }
+]

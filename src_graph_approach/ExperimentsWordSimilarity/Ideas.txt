@@ -1,0 +1,26 @@
+Main choices:
+
+- Edit Distance (Levenshtein Distance):
+- API-Call for similar words Datamuse, Wordnik, BigHugeThesaurus or Merriam
+
+Links:
+
+
+
+
+Thesaurus Lookup:
+- A simple and straightforward method is to use a thesaurus to find synonyms. Many digital thesauri also include related words which are not strictly synonyms but share a contextual similarity.
+
+Word Embeddings:
+- Techniques such as word embeddings (e.g., Word2Vec, GloVe, FastText) can be used to find similar words based on their usage in language. These models map words into a high-dimensional space where distances between points correspond to semantic similarities.
+-You can use pre-trained models or train your own on a specific corpus if you have specialized vocabulary needs.
+
+Semantic Similarity with NLP Libraries:
+- Natural Language Processing (NLP) libraries like NLTK, spaCy, and transformers provide built-in functionalities or easy integration with models that can compute semantic similarity.
+- For example, spaCy allows you to load models that are pre-trained on large datasets and can be used to find similar words directly based on their vector representations.
+
+Edit Distance (Levenshtein Distance):
+- If you're interested in finding words that are orthographically similar (similar spelling), you might consider using algorithms like Levenshtein Distance. This method calculates the minimum number of single-character edits (insertions, deletions, substitutions) required to change one word into another.
+
+Hybrid Approaches:
+- Combining multiple methods can often yield better results. For example, you might filter words using a thesaurus and then rank these words using word embeddings to see which ones are used similarly in context.

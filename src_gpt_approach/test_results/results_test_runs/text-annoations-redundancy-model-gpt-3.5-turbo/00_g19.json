@@ -1,0 +1,48 @@
+[
+    {
+        "elipsedTimeNs": 12634409400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1018,
+            1020
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the OlderPerson wants to perform an action.",
+                    "firstUserStoryTriggerPair": [
+                        "OlderPerson",
+                        "know exactly"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "OlderPerson",
+                        "use only"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the OlderPerson wants to perform an action on specific items.",
+                    "firstUserStoryTargetPair": [
+                        "know exactly",
+                        "what"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "use only",
+                        "well-visible buttons"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

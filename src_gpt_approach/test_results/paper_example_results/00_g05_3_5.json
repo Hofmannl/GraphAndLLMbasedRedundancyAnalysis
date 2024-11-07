@@ -1,0 +1,48 @@
+[
+    {
+        "elipsedTimeNs": 5337011500,
+        "repairRuns": 0,
+        "relatedStories": [
+            408,
+            409
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the API User wants to normalise measures.",
+                    "firstUserStoryTriggerPair": [
+                        "API User",
+                        "normalise"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "API User",
+                        "normalise"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, normalisation is related to measures.",
+                    "firstUserStoryTargetPair": [
+                        "normalise",
+                        "measures"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "normalise",
+                        "measures"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

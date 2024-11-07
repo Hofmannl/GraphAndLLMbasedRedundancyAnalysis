@@ -1,0 +1,36 @@
+[
+    {
+        "elipsedTimeNs": 6238715500,
+        "repairRuns": 0,
+        "relatedStories": [
+            1365,
+            1368
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the 'depositor' wants to maintain or deposit datasets.",
+                    "firstUserStoryTargetPair": [
+                        "maintain",
+                        "datasets"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "maintain",
+                        "datasets"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]

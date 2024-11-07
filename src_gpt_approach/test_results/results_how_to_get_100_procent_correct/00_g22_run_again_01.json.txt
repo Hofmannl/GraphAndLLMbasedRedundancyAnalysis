@@ -1,0 +1,796 @@
+[
+    {
+        "elipsedTimeNs": 10270893300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1225,
+            1226
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, there is a desire to indicate something.",
+                    "firstUserStoryTargetPair": [
+                        "indicate",
+                        "where"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "indicate",
+                        "where"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 15286731000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1228,
+            1235
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, decisions are made regarding data.",
+                    "firstUserStoryTargetPair": [
+                        "used",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "repository",
+                        "data"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, decisions are made regarding data.",
+                    "firstUserStoryTargetPair": [
+                        "develop",
+                        "more detailed usage"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "collection",
+                        "data"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, decisions are made regarding data.",
+                    "firstUserStoryTargetPair": [
+                        "support",
+                        "scenarios"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "repository",
+                        "data"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": [
+                {
+                    "descriptionOfContainPairRedundancies": "In both stories, data is associated with specific elements.",
+                    "firstUserStoryContainPair": [
+                        "data",
+                        "content"
+                    ],
+                    "secondUserStoryContainPair": [
+                        "repository",
+                        "data"
+                    ]
+                },
+                {
+                    "descriptionOfContainPairRedundancies": "In both stories, data is associated with specific elements.",
+                    "firstUserStoryContainPair": [
+                        "data",
+                        "content"
+                    ],
+                    "secondUserStoryContainPair": [
+                        "collection",
+                        "data"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "elipsedTimeNs": 8134136400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1228,
+            1290
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 9668369500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1232,
+            1281
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, there is a need to know or apply certain security measures.",
+                    "firstUserStoryTargetPair": [
+                        "know",
+                        " kind of security measures"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "associated",
+                        "detailed metadata"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": [
+                {
+                    "descriptionOfContainPairRedundancies": "In both stories, there is a reference to detailed metadata.",
+                    "firstUserStoryContainPair": [
+                        "data",
+                        "security requirements"
+                    ],
+                    "secondUserStoryContainPair": [
+                        "data",
+                        "detailed metadata"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "elipsedTimeNs": 2947255300,
+        "repairRuns": 0,
+        "relatedStories": [
+            1235,
+            1246
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 16902073000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1242,
+            1243
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, someone wants to know something.",
+                    "firstUserStoryTriggerPair": [
+                        "data manager",
+                        "know"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "IT staff member",
+                        "know"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to know the kind of data types.",
+                    "firstUserStoryTargetPair": [
+                        "know",
+                        "kind of data types"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "know",
+                        "kind of data types"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to know the produced kind of data types.",
+                    "firstUserStoryTargetPair": [
+                        "produced",
+                        "kind of data types"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "produced",
+                        "kind of data types"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, someone wants to know the collected kind of data types.",
+                    "firstUserStoryTargetPair": [
+                        "collected",
+                        "kind of data types"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "collected",
+                        "kind of data types"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 6221374500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1244,
+            1290
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 12562299400,
+        "repairRuns": 1,
+        "relatedStories": [
+            1246,
+            1291
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": true,
+            "pairsOfTriggersRedundancies": [
+                {
+                    "descriptionOfTriggerPairRedundancies": "In both stories, the data manager wants to know something.",
+                    "firstUserStoryTriggerPair": [
+                        "data manager",
+                        "know"
+                    ],
+                    "secondUserStoryTriggerPair": [
+                        "data manager",
+                        "know"
+                    ]
+                }
+            ],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the data manager wants to know about data.",
+                    "firstUserStoryTargetPair": [
+                        "know",
+                        "content"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "know",
+                        "software"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 2773237700,
+        "repairRuns": 0,
+        "relatedStories": [
+            1246,
+            1294
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 7259498600,
+        "repairRuns": 1,
+        "relatedStories": [
+            1246,
+            1307
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3094711300,
+        "repairRuns": 0,
+        "relatedStories": [
+            1247,
+            1291
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 8866021000,
+        "repairRuns": 1,
+        "relatedStories": [
+            1254,
+            1259
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4414622700,
+        "repairRuns": 0,
+        "relatedStories": [
+            1256,
+            1281
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 2419533500,
+        "repairRuns": 0,
+        "relatedStories": [
+            1263,
+            1281
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 10519792900,
+        "repairRuns": 1,
+        "relatedStories": [
+            1268,
+            1290
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 3192028600,
+        "repairRuns": 0,
+        "relatedStories": [
+            1269,
+            1294
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 7311834500,
+        "repairRuns": 1,
+        "relatedStories": [
+            1275,
+            1289
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 7956358300,
+        "repairRuns": 1,
+        "relatedStories": [
+            1276,
+            1281
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 6477879300,
+        "repairRuns": 0,
+        "relatedStories": [
+            1284,
+            1287
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the IT staff member wants to know something.",
+                    "firstUserStoryTargetPair": [
+                        "know",
+                        "how"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "know",
+                        "software"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, the IT staff member wants to determine functionalities.",
+                    "firstUserStoryTargetPair": [
+                        "determine",
+                        "functionalities"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "determine",
+                        "functionalities"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, data is used.",
+                    "firstUserStoryTargetPair": [
+                        "used",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "used",
+                        "data"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, functionalities are determined.",
+                    "firstUserStoryTargetPair": [
+                        "determine",
+                        "functionalities"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "determine",
+                        "functionalities"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 4074125000,
+        "repairRuns": 0,
+        "relatedStories": [
+            1288,
+            1291
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, there is a focus on data re-use or re-using.",
+                    "firstUserStoryTargetPair": [
+                        "re-use",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "(re-)use",
+                        "data"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 5504236700,
+        "repairRuns": 0,
+        "relatedStories": [
+            1290,
+            1291
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": true,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, there is a focus on data.",
+                    "firstUserStoryTargetPair": [
+                        "reproduced efficiently",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "produced",
+                        "data"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, there is a focus on data.",
+                    "firstUserStoryTargetPair": [
+                        "determine",
+                        "how"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "used",
+                        "data"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, there is a focus on data.",
+                    "firstUserStoryTargetPair": [
+                        "stored",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "(re-)use",
+                        "data"
+                    ]
+                },
+                {
+                    "descriptionOfTargetPairRedundancies": "In both stories, there is a focus on technology.",
+                    "firstUserStoryTargetPair": [
+                        "technology",
+                        "data"
+                    ],
+                    "secondUserStoryTargetPair": [
+                        "technology",
+                        "data"
+                    ]
+                }
+            ],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 2744823900,
+        "repairRuns": 0,
+        "relatedStories": [
+            1291,
+            1296
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 2377371600,
+        "repairRuns": 0,
+        "relatedStories": [
+            1291,
+            1300
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    },
+    {
+        "elipsedTimeNs": 8047184800,
+        "repairRuns": 1,
+        "relatedStories": [
+            1292,
+            1301
+        ],
+        "mainPartRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        },
+        "benefitRedundancies": {
+            "partialRedundancy": false,
+            "fullRedundancy": false,
+            "pairsOfTriggersRedundancies": [],
+            "pairsOfTargetsRedundancies": [],
+            "pairsOfContainsRedundancies": []
+        }
+    }
+]
