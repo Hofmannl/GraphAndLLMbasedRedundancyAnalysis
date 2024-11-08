@@ -73,6 +73,7 @@ You have to create an *.env*-file in the *src_gpt_approach* folder. The followin
 - OUTPUT_EXCEL_NAME_WITH_TEXT_AND_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
 - OUTPUT_EXCEL_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
 - OUTPUT_EXCEL_STRICT_REDUNDANCY_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
+- OUTPUT_EXCEL_NAME_WITH_STRICT_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with strict annoations
 - THRESHOLD_REPAIR (Any number of repairs, e.g., "3")
 - THREADING ("1" = ON, "2" = OFF)
 - THREAD_MULTIPLICATOR (Any number for thread multiplication > 0)
