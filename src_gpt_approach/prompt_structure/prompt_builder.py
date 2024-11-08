@@ -95,6 +95,16 @@ class PromptBuilder:
             "4.) A full benefit redundancy occurs if the values of 'Triggers'.'Benefit' and 'Targets'.'Benefit' and 'Contains'.'Benefit' also occur in the second User Story and vice versa."
         )
 
+        self._DEFINITION_STRICT_PARTIAL_FULL_REDUNDANCY: str = (
+            "Two user stories are redundant in the main part if one value of 'Targets'.'Main Part' of the first story also occurs in 'Targets'.'Main Part' of the second story. "
+            "Hereby, we are just looking for exact duplicate words. I.e., they spelled identically. "
+            "If we consider user story one which contains ['use', 'dataset'] in 'Targets'.'Main Part' and user story two which contains ['use', 'dataset']in 'Targets'.'Main Part', they are redundant in the main part. "
+            "If we consider user story one which contains ['use', 'dataset'] in 'Targets'.'Main Part' and user story two which contains ['use', 'data'] in 'Targets'.'Main Part', they are not redundant in the main part. "
+            "Two user stories are redundant in the benefit if one value of 'Targets'.Benefit' of the first story also occurs in 'Targets'.Benefit' of the second story. Hereby, we are just looking for exact duplicate words. "
+            "I.e., they are spelled identically. If we consider user story one which contains ['view', 'dataset'] in 'Targets'.Benefit'and user story two which contains ['view', 'dataset'] in 'Targets'.Benefit', they are redundant in the benefit. "
+            "If we consider user story one which contains ['view', 'dataset'] in 'Targets'.Benefit' and user story two which contains ['view', 'personal data'] in 'Targets'.Benefit', they are not redundant in the benefit. "
+        )
+
         self._DEFINITION_INTUTIVE_REDUNDANCY: str = (
             "Two User Stories are considered redundant if they are the same or sufficiently similar in content and context such that their overlap fails to contribute any or just a tiny additional value or insight. "
             "This redundancy definition originates from strict redundancy and includes it as a subset, while extending to broader definition which is more robust. "
@@ -110,6 +120,16 @@ class PromptBuilder:
             "Multiple redundant references are possible. "
             "It is not enough to have a redundancy based on just a Persona and a Action (trigger reference), e.g., ['User', 'have'] or ['User', 'accepts'].  "
             "This means, that a persona and an action can be redundant, but it is not sufficient to have a redundancy, but it can be a part of the redundancy. "
+        )
+
+        self._DEFINITION_STRICT_REDUNDANCY_TEXT: str = (
+            "Two user stories are redundant in the main part if one value of 'Targets'.'Main Part' of the first story also occurs in 'Targets'.'Main Part' of the second story. Hereby, we are just looking for exact duplicate words. "
+            "I.e., they spelled identically. If we consider user story one which contains ['use', 'dataset'] in 'Targets'.'Main Part' and user story two which contains ['use', 'dataset'] in 'Targets'.'Main Part', they are redundant in the main part. "
+            "If we consider user story one which contains ['use', 'dataset'] in 'Targets'.'Main Part' and user story two which contains ['use', 'data'] in 'Targets'.'Main Part', they are not redundant in the main part. "
+            "Two user stories are redundant in the benefit if one value of 'Targets'.Benefit' of the first story also occurs in 'Targets'.Benefit' of the second story. "
+            "Hereby, we are just looking for exact duplicate words. I.e., they are spelled identically. "
+            "If we consider user story one which contains ['use', 'dataset'] in 'Targets'.Benefit' and user story two which contains ['use', 'dataset'] in 'Targets'.Benefit', they are redundant in the benefit. "
+            "If we consider user story one which contains ['use', 'dataset'] in 'Targets'.Benefit' and user story two which contains ['use', 'dataset'] in 'Targets'.Benefit', they are not redundant in the benefit. "
         )
 
         self._SYSTEM_SIMULATION_DEFINITION: str = (
@@ -376,6 +396,19 @@ class PromptBuilder:
             "content": temp,
         }
 
+    def get_strict_redundancy_full_partial_definition(self) -> dict:
+        """
+        Returns the definition of partial and full redundancies in user stories.
+
+        Returns:
+            dict: A dictionary containing the role and content for the redundancy definition.
+        """
+        temp: str = self._DEFINITION_STRICT_PARTIAL_FULL_REDUNDANCY
+        return {
+            "role": "user",
+            "content": temp,
+        }
+
     def get_redundancy_intuitive_definition(self) -> dict:
         """
         Returns the definition of partial and full redundancies in user stories.
@@ -384,6 +417,19 @@ class PromptBuilder:
             dict: A dictionary containing the role and content for the redundancy definition.
         """
         temp: str = self._DEFINITION_INTUTIVE_REDUNDANCY
+        return {
+            "role": "user",
+            "content": temp,
+        }
+
+    def get_redundancy_strict_definition_text(self) -> dict:
+        """
+        Returns the definition of partial and full redundancies in user stories.
+
+        Returns:
+            dict: A dictionary containing the role and content for the redundancy definition.
+        """
+        temp: str = self._DEFINITION_STRICT_REDUNDANCY_TEXT
         return {
             "role": "user",
             "content": temp,
@@ -495,7 +541,9 @@ class PromptBuilder:
 
         return input_output_examples
 
-    def get_input_output_examples_simple_format(self, schema_keys: list[str]) -> dict:
+    def get_input_output_examples_simple_format(
+        self, schema_keys: list[str], with_synonyms: bool = True
+    ) -> dict:
         """
         Generates a structured example text showing input-output relationships based on the provided schema keys.
 
@@ -518,7 +566,8 @@ class PromptBuilder:
         """
         temp_intro = f"{self._INTRO_OF_EXAMPLES}\n"
         temp_input = copy.deepcopy(self._json_input_examples)
-        temp_input += copy.deepcopy(self._json_input_examples_synonyms)
+        if with_synonyms:
+            temp_input += copy.deepcopy(self._json_input_examples_synonyms)
         temp_input = [
             {k: v for k, v in entry.items() if k in schema_keys} for entry in temp_input
         ]
