@@ -1,12 +1,13 @@
 # Abstract
-User stories (USs) are a widely used notation for requirements in agile development. 
-However, it can easily happen that two USs are redundant, at least partially. 
-While some form of redundancy may be acceptable, the user should keep an eye on redundancy in USs for the sake of conciseness and to reduce the risk of inconsistencies.
-We present two different approaches to analysing USs for redundancy and compare their potential and limitations.
-The first approach translates annotated USs into graph transformation rules, which are then analysed for conflicts to infer redundancies.
-The second approach uses a large language model (LLM), here *GPT*, to analyse annotated USs for redundancy. 
-We compare the results of these redundancy analyses and discuss their similarities and differences. 
-We found that the graph transformation (GT)-based approach is particularly suitable for syntactic analysis, whereas the LLM-based approach seems to find semantic redundancies.
+User stories (USs) are a widely used notation for requirements in agile software development.
+In large software projects, redundancies between USs can easily occur, and unresolved redundancies can impact software quality. 
+While some redundancy may be acceptable, it is crucial for requirements engineers to know where redundancies occur in their projects. 
+To address this, we want to provide automated approaches to analyse sets of USs in order to prevent a decrease of software quality due to the realisation of redundant USs.
+This paper presents two approaches to redundancy analysis.
+The first approach is based on an a conceptual model for USs, called annotation graph,  containing their main actions and entities; the other uses large language models (LLMs). 
+We present the concepts and tools of both approaches and evaluate their potential and limitations by applying them to a large corpus of USs.
+Our results show that the graph-based approach can correctly analyse a strict form of redundancy, while the inherently fuzzy LLM-based approach is more adept at recognising semantic redundancies.
+Thus, this study contributes to the advancement of automated quality control of USs.
 
 ![Example User Story](ExampleSentence.pdf)
   
