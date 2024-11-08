@@ -1,12 +1,13 @@
 # Abstract
-User stories (USs) are a widely used notation for requirements in agile development. 
-However, it can easily happen that two USs are redundant, at least partially. 
-While some form of redundancy may be acceptable, the user should keep an eye on redundancy in USs for the sake of conciseness and to reduce the risk of inconsistencies.
-We present two different approaches to analysing USs for redundancy and compare their potential and limitations.
-The first approach translates annotated USs into graph transformation rules, which are then analysed for conflicts to infer redundancies.
-The second approach uses a large language model (LLM), here *GPT*, to analyse annotated USs for redundancy. 
-We compare the results of these redundancy analyses and discuss their similarities and differences. 
-We found that the graph transformation (GT)-based approach is particularly suitable for syntactic analysis, whereas the LLM-based approach seems to find semantic redundancies.
+User stories (USs) are a widely used notation for requirements in agile software development.
+In large software projects, redundancies between USs can easily occur, and unresolved redundancies can impact software quality. 
+While some redundancy may be acceptable, it is crucial for requirements engineers to know where redundancies occur in their projects. 
+To address this, we want to provide automated approaches to analyse sets of USs in order to prevent a decrease of software quality due to the realisation of redundant USs.
+This paper presents two approaches to redundancy analysis.
+The first approach is based on an a conceptual model for USs, called annotation graph,  containing their main actions and entities; the other uses large language models (LLMs). 
+We present the concepts and tools of both approaches and evaluate their potential and limitations by applying them to a large corpus of USs.
+Our results show that the graph-based approach can correctly analyse a strict form of redundancy, while the inherently fuzzy LLM-based approach is more adept at recognising semantic redundancies.
+Thus, this study contributes to the advancement of automated quality control of USs.
 
 ![Example User Story](ExampleSentence.pdf)
   
@@ -67,16 +68,19 @@ You have to create an *.env*-file in the *src_gpt_approach* folder. The followin
 - RPM (Requests-Per-Minute)
 - TOKEN_DELTA (Approximation of the Request Size to avoid GPT "Deadlocks")
 - TEMPERATURE (e.g. 0.2)
-- OUTPUT_EXCEL_NAME_WITH_JUST_TEXT (Insert here the name of the .xlsx-file which stores the results of results from without annoations)
-- OUTPUT_EXCEL_NAME_WITH_ANNOTATIONS (Insert here the name of the .xlsx-file which stores the results of results from with annoations)
-- OUTPUT_EXCEL_NAME_WITH_TEXT_AND_ANNOTATIONS (Insert here the name of the .xlsx-file which stores the results of results from with plain annoations)
+- OUTPUT_EXCEL_NAME_WITH_JUST_TEXT #Insert here the name of the .xlsx-file which stores the results of results from without annoations
+- OUTPUT_EXCEL_NAME_WITH_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with annoations
+- OUTPUT_EXCEL_NAME_WITH_TEXT_AND_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
+- OUTPUT_EXCEL_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
+- OUTPUT_EXCEL_STRICT_REDUNDANCY_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
+- OUTPUT_EXCEL_NAME_WITH_STRICT_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with strict annoations
 - THRESHOLD_REPAIR (Any number of repairs, e.g., "3")
 - THREADING ("1" = ON, "2" = OFF)
 - THREAD_MULTIPLICATOR (Any number for thread multiplication > 0)
 - LIMIT  ("-1" =None, "n" = any number)
   
 
-This Repo was created for 'Redundancy Analysis of Annotated User Stories Using Graph Transformation and Large Language Models' for the [MDE Intelligence - 6th Workshop on Artificial Intelligence and Model-driven Engineering](https://mde-intelligence.github.io/)
+This Repo was created for 'Agile Development: Redundancy Analysis of User Stories with Graphs and Large Language Models' for the [Requirements Engineering: Foundation for Software Quality (REFSQ) 2025](https://2025.refsq.org/)
 
 
 ## Contributors
