@@ -541,9 +541,7 @@ class PromptBuilder:
 
         return input_output_examples
 
-    def get_input_output_examples_simple_format(
-        self, schema_keys: list[str], with_synonyms: bool = True
-    ) -> dict:
+    def get_input_output_examples_simple_format(self, schema_keys: list[str]) -> dict:
         """
         Generates a structured example text showing input-output relationships based on the provided schema keys.
 
@@ -566,8 +564,7 @@ class PromptBuilder:
         """
         temp_intro = f"{self._INTRO_OF_EXAMPLES}\n"
         temp_input = copy.deepcopy(self._json_input_examples)
-        if with_synonyms:
-            temp_input += copy.deepcopy(self._json_input_examples_synonyms)
+        temp_input += copy.deepcopy(self._json_input_examples_synonyms)
         temp_input = [
             {k: v for k, v in entry.items() if k in schema_keys} for entry in temp_input
         ]
@@ -708,6 +705,190 @@ class PromptBuilder:
 
         temp_output += [
             transform_redundancies(json) for json in self._json_output_examples_synonyms
+        ]
+
+        temp_examples: str = temp_intro
+        first_one: dict = None
+        second_one: dict = None
+        i: int = 1
+        for out_example in temp_output:
+            key1, key2 = map(str, out_example["relatedStories"])
+            for inp_example in temp_input:
+                if not first_one and str(inp_example["USID"]) == str(key1):
+                    first_one = inp_example
+                elif not second_one and str(inp_example["USID"]) == str(key2):
+                    second_one = inp_example
+            if not first_one or not second_one:
+                raise ValueError("No releated US found for output json")
+            temp_examples += f"Example {i}.):\n"
+            temp_examples += f"The input json is {json.dumps(first_one)} and {json.dumps(second_one)}\n"
+            temp_examples += f"The expected output is: {json.dumps(out_example)}\n"
+            first_one = second_one = None
+            i += 1
+
+        input_output_examples: dict = {"role": "user", "content": temp_examples}
+
+        return input_output_examples
+
+    def get_input_output_examples_strict_format(self, schema_keys: list[str]) -> dict:
+        """
+        Generates a structured example text showing input-output relationships based on the provided schema keys.
+
+        Args:
+            schema_keys (list[str]): A list of keys that should be included in the input examples.
+
+        Returns:
+            dict: A dictionary with a role and content, where the content is a formatted string of input-output examples.
+
+        Raises:
+            ValueError: If no related user stories are found for any output example.
+
+        Description:
+            This function performs the following steps:
+            1. Copies the global variable `json_input_examples` and filters each entry to retain only keys specified in `schema_keys`.
+            2. Initializes a string with introductory content from the global variable `INTRO_OF_EXAMPLES`.
+            3. Iterates through each entry in the global variable `json_output_examples`, retrieves the related user stories by `USID`,
+            and constructs a formatted example text showing the input examples and their expected output.
+            4. Constructs a dictionary with a user role and the formatted content.
+        """
+        temp_intro = f"{self._INTRO_OF_EXAMPLES}\n"
+        temp_input = copy.deepcopy(self._json_input_examples)
+        temp_input = [
+            {k: v for k, v in entry.items() if k in schema_keys} for entry in temp_input
+        ]
+
+        def transform_redundancies(entry):
+            main_redundancy: bool = bool(
+                entry["mainPartRedundancies"]["partialRedundancy"]
+            ) or bool(entry["mainPartRedundancies"]["fullRedundancy"])
+            benefit_redundancy: bool = bool(
+                entry["benefitRedundancies"]["partialRedundancy"]
+            ) or bool(entry["benefitRedundancies"]["fullRedundancy"])
+
+            main_explanation: str = ""
+            try:
+                main_explanation = str(
+                    entry["mainPartRedundancies"]["mainPartExplanationOfRedundancy"]
+                )
+            except:
+                pass
+
+            benefit_explanation: str = ""
+            try:
+                benefit_explanation = str(
+                    entry["benefitRedundancies"]["benefitExplanationOfRedundancy"]
+                )
+            except:
+                pass
+
+            result: dict = {}
+            result["relatedStories"] = entry["relatedStories"]
+            result["mainPartRedundancies"] = {}
+            result["mainPartRedundancies"]["mainPartRedundancy"] = main_redundancy
+            result["mainPartRedundancies"][
+                "mainPartExplanationOfRedundancy"
+            ] = main_explanation
+            main_text_pairs: list[list[str]] = []
+            result["mainPartRedundancies"][
+                "mainPartPairsOfTextRedundancy"
+            ] = main_text_pairs
+            result["benefitRedundancies"] = {}
+            result["benefitRedundancies"]["benefitRedundancy"] = benefit_redundancy
+            result["benefitRedundancies"][
+                "benefitExplanationOfRedundancy"
+            ] = benefit_explanation
+            benefit_text_pairs: list[list[str]] = []
+            result["benefitRedundancies"][
+                "benefitPairsOfTextRedundancy"
+            ] = benefit_text_pairs
+
+            def transform_redundancy_pairs_flat_list(
+                pairs: list[list[str]],
+                entry: dict,
+                redundancy_type: str,
+                entry_collect: str,
+                entry_one: str,
+                entry_two: str,
+            ):
+                combined_array = []
+                firstUserStoryPair = []
+                secondUserStoryPair = []
+                for pair in entry[redundancy_type][entry_collect]:
+                    firstUserStoryPair = pair[entry_one]
+                    secondUserStoryPair = pair[entry_two]
+                    combined_array = [
+                        [
+                            firstUserStoryPair[0],
+                            secondUserStoryPair[0],
+                        ],
+                        [
+                            firstUserStoryPair[1],
+                            secondUserStoryPair[1],
+                        ],
+                    ]
+                    # pairs.extend(combined_array)
+                    pairs += combined_array
+
+            if main_redundancy:
+                transform_redundancy_pairs_flat_list(
+                    main_text_pairs,
+                    entry,
+                    "mainPartRedundancies",
+                    "pairsOfTriggersRedundancies",
+                    "firstUserStoryTriggerPair",
+                    "secondUserStoryTriggerPair",
+                )
+
+                transform_redundancy_pairs_flat_list(
+                    main_text_pairs,
+                    entry,
+                    "mainPartRedundancies",
+                    "pairsOfTargetsRedundancies",
+                    "firstUserStoryTargetPair",
+                    "secondUserStoryTargetPair",
+                )
+
+                transform_redundancy_pairs_flat_list(
+                    main_text_pairs,
+                    entry,
+                    "mainPartRedundancies",
+                    "pairsOfContainsRedundancies",
+                    "firstUserStoryContainPair",
+                    "secondUserStoryContainPair",
+                )
+
+            if benefit_redundancy:
+                transform_redundancy_pairs_flat_list(
+                    benefit_text_pairs,
+                    entry,
+                    "benefitRedundancies",
+                    "pairsOfTriggersRedundancies",
+                    "firstUserStoryTriggerPair",
+                    "secondUserStoryTriggerPair",
+                )
+
+                transform_redundancy_pairs_flat_list(
+                    benefit_text_pairs,
+                    entry,
+                    "benefitRedundancies",
+                    "pairsOfTargetsRedundancies",
+                    "firstUserStoryTargetPair",
+                    "secondUserStoryTargetPair",
+                )
+
+                transform_redundancy_pairs_flat_list(
+                    benefit_text_pairs,
+                    entry,
+                    "benefitRedundancies",
+                    "pairsOfContainsRedundancies",
+                    "firstUserStoryContainPair",
+                    "secondUserStoryContainPair",
+                )
+
+            return result
+
+        temp_output: list[dict] = [
+            transform_redundancies(json) for json in self._json_output_examples
         ]
 
         temp_examples: str = temp_intro
