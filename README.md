@@ -53,7 +53,7 @@ We compared our LLM approach against a formal approach from [Alexander Lauer, Am
 - Listed in the requirements.txt
 
 ## Installation guide
-- Install python >= 3.12
+- Install python == 3.12
 - Create a .venv
 - pip pip install -r /<usr_path>/requirements.txt
 - pip install . in src
