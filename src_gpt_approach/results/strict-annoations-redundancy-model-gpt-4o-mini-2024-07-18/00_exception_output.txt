@@ -1,0 +1,548 @@
+
+
+
+
+------------
+Current Exception-Count: 63
+----
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": "I can always wear him with me"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": "I can learn everything about him and he about me"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": "I can learn everything about him and he about me"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": "I can avoid an overdose"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": "I can avoid an overdose"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": "I do not just have virtual contacts over ALFRED"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G19#", "USID2": ""}
+
+------------
+
+
+
+
+
+
+
+------------
+Current Exception-Count: 26
+----
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can plan the right storage system and sharing permissions"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "it remains accessible during all stages of the data lifecycle"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "it remains accessible during all stages of the data lifecycle"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can calculate necessary submission fees and check whether it belongs to our target group"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can ensure the descriptions are current and add detail as the study proceeds"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can determine what basic support services and functionalities are required"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can check whether the necessary expertise for maintaining intellectual reusability is available"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can check whether the necessary expertise for maintaining intellectual reusability is available"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can plan long term resources"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can plan the data management"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can provide the adequate storage infrastructure"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "the data can be re-used and managed"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "it will be understandable by future users"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "it will be understandable by future users"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can ensure that the necessary technical resources and technical know-how is available"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can determine what kind of basic services and functionalities are required"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can ensure that these dependencies are maintained"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can ensure that these dependencies are maintained"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can ensure that these dependencies are maintained"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can ensure that these dependencies are maintained"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can ensure that these dependencies are maintained"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can ensure that these dependencies are maintained"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "it can be checked whether all necessary information is available for researchers interested in re-using the data"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can determine whether and how the data has to be stored"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "I can determine whether and how the data has to be stored"}
+
+------------
+
+
+
+{"Reason": "Not stopped exception from ChatGPT Endpoint", "USID1": "#G22#", "USID2": "they are counted towards our citation counts"}
+
+------------
+
+
+
