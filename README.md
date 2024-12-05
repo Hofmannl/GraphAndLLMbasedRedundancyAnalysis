@@ -92,9 +92,13 @@ We compared our LLM approach against a formal graph-based approach.
 
 ## Start-Up Env
 
-- For Windows we have de
-- After the first installation of the [Installation for the GPT approach](#gpt_installation) the Script **start_env_gpt_approach.ps1** can be used to start all services for the GPT approach. **Attention:** everytime the script is executed the local source code is freshly compiled and the dependencies checked for the correct version and otherwise newly installed.  
-- After the first installation of the [Installation for the Graph approach](#graph_installation) the Script **start_env_graph_approach.ps1** can be used to start all services for the GPT approach. **Attention:** everytime the script is executed the local source code is freshly compiled and the dependencies checked for the correct version and otherwise newly installed.  
+- For Windows, we have developed scripts to automate the installation and recompilation of dependencies.
+- After completing the GPT Approach Installation, you can use the **start_env_gpt_approach.ps1** script to launch all services for the GPT approach. ([Installation for the GPT approach](#gpt_installation))
+**Note:** Each time the script is executed, the local source code is freshly compiled, and dependencies are verified for the correct versions. If discrepancies are found, they are reinstalled automatically.
+- Similarly, after completing the Graph Approach Installation, you can use the **start_env_graph_approach.ps1** script to launch all services for the Graph approach. ([Installation for the Graph approach](#graph_installation))
+**Note:** As with the Graph approach, executing this script will recompile the local source code and ensure dependencies are up-to-date, reinstalling them if necessary.
+- Currently, only Windows is supported. Other operating systems such as [Linux](https://www.linux.org/), [MacOS](https://en.wikipedia.org/wiki/MacOS), and [Unix](https://en.wikipedia.org/wiki/Unix) are not yet supported. However, we plan to streamline the automated installation and recompilation process for these platforms in the future.
+- Furthermore, we plan to develop a backend service for both strategies and containerize the application using [Docker](https://www.docker.com/). This will enable semi-technical staff to easily use the containers and integrate them into their applications.
 
 ## Env
 
@@ -117,8 +121,6 @@ You have to create an *.env*-file in the *src_gpt_approach* folder. The followin
 - THREAD_MULTIPLICATOR (Any number for thread multiplication > 0)
 - LIMIT  ("-1" =None, "n" = any number)
   
-This Repo was created for 'Agile Development: Redundancy Analysis of User Stories with Graphs and Large Language Models' for the [Requirements Engineering: Foundation for Software Quality (REFSQ) 2025](https://2025.refsq.org/)
-
 ## Prompt Example
 
 <a id="prompt_examples"></a>
@@ -158,3 +160,7 @@ The "+" operator indicates concatenation of strings, which includes insertion of
 - [Alexander Lauer](alexander.lauer@uni-marburg.de)
 - [Arno Kesper](arno.kesper@uni-marburg.de)
 - [Gabriele Taentzer](taentzer@mathematik.uni-marburg.de)
+
+## This Repo was submitted at REFSQ 2025
+
+This Repo was created for 'Agile Development: Redundancy Analysis of User Stories with Graphs and Large Language Models' for the [Requirements Engineering: Foundation for Software Quality (REFSQ) 2025](https://2025.refsq.org/)
