@@ -17,14 +17,20 @@ Thus, this study contributes to the advancement of automated quality control of 
 Redundant requirements can be paired and between this pairs redundancies can be found.
 
 We use the User Stories from [nlp-stories](https://github.com/ace-design/nlp-stories/tree/main) and [user story repo](https://zenodo.org/records/8136975)
-We compared our LLM approach against a formal approach from [Alexander Lauer, Amir Rabieyan Nejad, Lukas Hofmann](https://github.com/amirrabieyannejad/USs_Annotation.git)
+We compared our LLM approach against a formal graph-based approach.
 
 ## Folder explanation
 
 - Datasets: Contains the annotated [nlp-stories](https://github.com/ace-design/nlp-stories/tree/main)
-- ExperimentsWordSimilarity: Contains a future project idea
-- results: Important results shown in the paper for [MDE Intelligence - 6th Workshop on Artificial Intelligence and Model-driven Engineering](https://mde-intelligence.github.io/)
-- src: containg the source code of our implementation. Please, consider for installation our installation and dependecies description
+- ExamplesForPmc: Contains some examples how the actual interaction (prompts) are written based on the formal structure in [Prompt Examples](#prompt_examples).  
+- results_gpt_approach
+  - Results for general redundancy analyses (Redundancy_Analyse.xlsx)
+  - Results for strict redundancy analyses (Strict_Redundancy_Analyse.xlsx)
+  - Results for ignored US and time consumption (to find in the output_detections_highlighting_*.xlsx)
+- results_graph_approach
+  - Results of the strict redundancy analyse for G19 in JSON + CSV format
+  - Results of the strict redundancy analyse for G22 in JSON + CSV format
+- src_gpt_approach: containg the source code of our implementation. Please, consider for installation our installation and dependecies description
   - [ ] /controller: Implementation of the Fask API endpoint.
   - [ ] /future_work: Contains future experiments in jupyter notebook form (partly done).
   - [X] /prompt_structure : Containing the prompts used for our experiments.  
@@ -34,6 +40,9 @@ We compared our LLM approach against a formal approach from [Alexander Lauer, Am
   - [X] /utils: Utility functions.
   - [X] /Various Jupyter Notebooks: To connect and execute to our progam logic.
   - [X] /setup.py: -
+- src_graph_approach:
+  - Implementation of the graph-based strict redundancy analyses (to find in the main.ipynb)
+  - ExperimentsWordSimilarity: Use of distance metrics to determine the similarity of words (annotations)
 
 ## Architecture
 
@@ -61,12 +70,31 @@ We compared our LLM approach against a formal approach from [Alexander Lauer, Am
 
 ## Installation guide
 
+***Installation for the GPT approach***
+<a id="gpt_installation"></a>
+
 - Install python == 3.12
 - Create a .venv
 - pip pip install -r /<usr_path>/requirements.txt
 - pip install . in src
 - configure [jupyter notebook env](https://jupyter-notebook.readthedocs.io/en/5.7.1/public_server.html)
-- start jupyter notebook in src
+- start jupyter notebook in the src_gpt_approach **folder**
+
+***Installation for the Graph approach***
+<a id="graph_installation"></a>
+
+- Install python == 3.12
+- Create a .venv
+- pip pip install -r /<usr_path>/requirements.txt
+- pip install . in src
+- configure [jupyter notebook env](https://jupyter-notebook.readthedocs.io/en/5.7.1/public_server.html)
+- start jupyter notebook in src (not in the src_graph_approach)
+
+## Start-Up Env
+
+- For Windows we have de
+- After the first installation of the [Installation for the GPT approach](#gpt_installation) the Script **start_env_gpt_approach.ps1** can be used to start all services for the GPT approach. **Attention:** everytime the script is executed the local source code is freshly compiled and the dependencies checked for the correct version and otherwise newly installed.  
+- After the first installation of the [Installation for the Graph approach](#graph_installation) the Script **start_env_graph_approach.ps1** can be used to start all services for the GPT approach. **Attention:** everytime the script is executed the local source code is freshly compiled and the dependencies checked for the correct version and otherwise newly installed.  
 
 ## Env
 
@@ -92,6 +120,8 @@ You have to create an *.env*-file in the *src_gpt_approach* folder. The followin
 This Repo was created for 'Agile Development: Redundancy Analysis of User Stories with Graphs and Large Language Models' for the [Requirements Engineering: Foundation for Software Quality (REFSQ) 2025](https://2025.refsq.org/)
 
 ## Prompt Example
+
+<a id="prompt_examples"></a>
 
 An Examples of a Prompt-Message-Chain (PMC) can be found in the *ExamplesForPmc*-Folder.
 This PMC follows the structure of:
