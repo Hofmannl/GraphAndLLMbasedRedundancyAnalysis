@@ -16,25 +16,25 @@ Thus, this study contributes to the advancement of automated quality control of 
 
 Redundant requirements can be paired and between this pairs redundancies can be found.
 
-We use the User Stories from [nlp-stories](https://github.com/ace-design/nlp-stories/tree/main) and [user story repo](https://zenodo.org/records/8136975)
+We use the User Stories from [nlp-stories](https://github.com/ace-design/nlp-stories/tree/main) and [user story repo](https://zenodo.org/records/8136975).
 We compared our LLM approach against a formal graph-based approach.
 
 ## Folder explanation
 
 - Datasets: Contains the annotated [nlp-stories](https://github.com/ace-design/nlp-stories/tree/main)
-- ExamplesForPmc: Contains some examples how the actual interaction (prompts) are written based on the formal structure in [Prompt Examples](#prompt_examples).  
+- ExamplesForPmc: Contains some concrete examples how the actual interaction (prompts) is written based on the formal structure in [Prompt Examples](#prompt_examples).  
 - results_gpt_approach
   - Results for general redundancy analyses (Redundancy_Analyse.xlsx)
   - Results for strict redundancy analyses (Strict_Redundancy_Analyse.xlsx)
   - Results for ignored US and time consumption (to find in the output_detections_highlighting_*.xlsx)
 - results_graph_approach
-  - Results of the strict redundancy analyse for G19 in JSON + CSV format
-  - Results of the strict redundancy analyse for G22 in JSON + CSV format
-- src_gpt_approach: containg the source code of our implementation. Please, consider for installation our installation and dependecies description
+  - Results of the strict redundancy analyses for G19 in JSON + CSV format
+  - Results of the strict redundancy analyses for G22 in JSON + CSV format
+- src_gpt_approach: containg the source code of our implementation. For installation, please refer to our installation and dependency description.
   - [ ] /controller: Implementation of the Fask API endpoint.
   - [ ] /future_work: Contains future experiments in jupyter notebook form (partly done).
-  - [X] /prompt_structure : Containing the prompts used for our experiments.  
-  - [X] /results: All results achieved during our developments.
+  - [X] /prompt_structure : Contains the prompts used for our experiments.  
+  - [X] /results: All results achieved during our experiments.
   - [X] /support_functions: As our implementation is based on a functional approach this src folder contains all abstracted functions.
   - [X] /support_functions_test: Tests for the support functions (pythonic style to organise tests).
   - [X] /utils: Utility functions.
@@ -102,20 +102,20 @@ We compared our LLM approach against a formal graph-based approach.
 
 ## Env
 
-You have to create an *.env*-file in the *src_gpt_approach* folder. The following entries have to be considered:
+You have to create a *.env*-file in the *src_gpt_approach* folder. The following entries have to be considered:
 
-- OPENAI_API_KEY (Enter here your API key)
+- OPENAI_API_KEY (Enter your API key here)
 - MODEL_VERSION (GPT 3.5 = gpt-3.5-turbo points to gpt-3.5-turbo-0125, GPT-4o = gpt-4o-2024-05-13)
 - TPM (Tokens-Per-Minute)
 - RPM (Requests-Per-Minute)
 - TOKEN_DELTA (Approximation of the Request Size to avoid GPT "Deadlocks")
 - TEMPERATURE (e.g. 0.2)
-- OUTPUT_EXCEL_NAME_WITH_JUST_TEXT #Insert here the name of the .xlsx-file which stores the results of results from without annoations
-- OUTPUT_EXCEL_NAME_WITH_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with annoations
-- OUTPUT_EXCEL_NAME_WITH_TEXT_AND_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
-- OUTPUT_EXCEL_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
-- OUTPUT_EXCEL_STRICT_REDUNDANCY_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annoations
-- OUTPUT_EXCEL_NAME_WITH_STRICT_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with strict annoations
+- OUTPUT_EXCEL_NAME_WITH_JUST_TEXT #Insert here the name of the .xlsx-file which stores the results of results from without annotations
+- OUTPUT_EXCEL_NAME_WITH_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with annotations
+- OUTPUT_EXCEL_NAME_WITH_TEXT_AND_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with plain annotations
+- OUTPUT_EXCEL_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annotations
+- OUTPUT_EXCEL_STRICT_REDUNDANCY_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annotations
+- OUTPUT_EXCEL_NAME_WITH_STRICT_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with strict annotations
 - THRESHOLD_REPAIR (Any number of repairs, e.g., "3")
 - THREADING ("1" = ON, "2" = OFF)
 - THREAD_MULTIPLICATOR (Any number for thread multiplication > 0)
