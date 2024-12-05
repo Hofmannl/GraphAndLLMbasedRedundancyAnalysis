@@ -110,8 +110,8 @@ You have to create a *.env*-file in the *src_gpt_approach* folder. The following
 - RPM (Requests-Per-Minute)
 - TOKEN_DELTA (Approximation of the Request Size to avoid GPT "Deadlocks")
 - TEMPERATURE (e.g. 0.2)
-- OUTPUT_EXCEL_NAME_WITH_JUST_TEXT #Insert here the name of the .xlsx-file which stores the results of results from without annotations
-- OUTPUT_EXCEL_NAME_WITH_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with annotations
+- OUTPUT_EXCEL_NAME_WITH_JUST_TEXT #Insert here the name of the .xlsx-file which stores the results of experiments where annotations have not been used
+- OUTPUT_EXCEL_NAME_WITH_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of experiments where annotations have been used
 - OUTPUT_EXCEL_NAME_WITH_TEXT_AND_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with plain annotations
 - OUTPUT_EXCEL_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annotations
 - OUTPUT_EXCEL_STRICT_REDUNDANCY_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annotations
