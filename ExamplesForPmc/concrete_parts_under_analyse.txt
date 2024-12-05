@@ -1,0 +1,15 @@
+Yes. Please, analyse the redundancies from the following pair of User Stories:
+First User Story (USID: 1018) JSON-Data: 
+{'PID': '#G19#',
+ 'USID': '1018',
+ 'Text': 'As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission.',
+ 'Main Part': ' As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission.',
+ 'Benefit': '',
+};
+Second User Story (USID: 1019 JSON-Data: 
+{'PID': '#G19#',
+ 'USID': '1019',
+ 'Text': 'As an OlderPerson, I want to receive information from ALFRED by speech technology.',
+ 'Main Part': 'As an OlderPerson, I want to receive information from ALFRED by speech technology.',
+ 'Benefit': '',
+}

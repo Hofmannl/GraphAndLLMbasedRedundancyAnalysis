@@ -1,0 +1,3 @@
+assistant: <<INTRODUCING HERE THE ANSWERE OF THE REGARDING GPT MODEL>>
+user: Please, check and repair the json format as it is not correct and return me the correct json output with the correct values. I used jsonschema libary from python to check the json.\n
+		<<INSERT HERE THE REGARDING ERROR MESSAGE FROM THE SCHMEA CHECKER>>

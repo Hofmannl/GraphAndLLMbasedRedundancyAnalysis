@@ -91,7 +91,36 @@ You have to create an *.env*-file in the *src_gpt_approach* folder. The followin
   
 This Repo was created for 'Agile Development: Redundancy Analysis of User Stories with Graphs and Large Language Models' for the [Requirements Engineering: Foundation for Software Quality (REFSQ) 2025](https://2025.refsq.org/)
 
-## Prompt Examples
+## Prompt Example
+
+An Examples of a Prompt-Message-Chain (PMC) can be found in the *ExamplesForPmc*-Folder.
+This PMC follows the structure of:
+
+\[
+M_{Sequence} = P_{Context-Framing} + \sum_{i=1}^{n} P_{Example}^{i} + P_{Process-Request} + \sum_{j=1}^{\tau} \left( P_{Agent-Answer}^{j} + P_{Repair-Request}^{j} \right)
+\]
+
+Where:
+
+- \( n \in \mathbb{N} \) is the number of shots in a few-shot prompt.
+- \( j \in \mathbb{N} \) is the number of repair attempts required to obtain a valid output, constrained by a preset repair threshold \( \tau \) that must not be exceeded.
+
+The "+" operator indicates concatenation of strings, which includes insertion of a system simulation.
+
+### Additional Details
+
+1. \( P_{Context-Framing} \): Contains explanations and content for:
+   - The actor role,
+   - The redundancy definition (Def. 3),
+   - The output format.
+
+2. \( P_{Example}^{i} \): Consists of a US pair example containing an input and its corresponding redundancy output. These examples frame the LLM agent for the specific task. Here, \( n \) is the number of examples to insert.
+
+3. \( P_{Process-Request} \): A prompt instructing the agent to analyze a particular pair of USs and respond with a JSON string.
+
+4. If an invalid response is generated, the prompt is re-sent with additional prompts:
+   - \( P_{Agent-Answer}^{j} \): Represents the invalid JSON response.
+   - \( P_{Repair-Request}^{j} \): A prompt describing why the JSON response does not match the expected schema.
 
 ## Contributors
 
