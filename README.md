@@ -110,12 +110,12 @@ You have to create a *.env*-file in the *src_gpt_approach* folder. The following
 - RPM (Requests-Per-Minute)
 - TOKEN_DELTA (Approximation of the Request Size to avoid GPT "Deadlocks")
 - TEMPERATURE (e.g. 0.2)
-- OUTPUT_EXCEL_NAME_WITH_JUST_TEXT #Insert here the name of the .xlsx-file which stores the results of experiments where annotations have not been used
+- OUTPUT_EXCEL_NAME_WITH_JUST_TEXT #Insert here the name of the .xlsx-file which stores the results of experiments where just text have been used
 - OUTPUT_EXCEL_NAME_WITH_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of experiments where annotations have been used
-- OUTPUT_EXCEL_NAME_WITH_TEXT_AND_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with plain annotations
-- OUTPUT_EXCEL_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annotations
-- OUTPUT_EXCEL_STRICT_REDUNDANCY_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of results from with plain annotations
-- OUTPUT_EXCEL_NAME_WITH_STRICT_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of results from with strict annotations
+- OUTPUT_EXCEL_NAME_WITH_TEXT_AND_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of experiments where annotations and text have been used
+- OUTPUT_EXCEL_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of experiments where just text have been used
+- OUTPUT_EXCEL_STRICT_REDUNDANCY_NAME_JUST_TEXTUAL #Insert here the name of the .xlsx-file which stores the results of experiments where just text have been used and the prompt was tuned for strict redundancy
+- OUTPUT_EXCEL_NAME_WITH_STRICT_ANNOTATIONS #Insert here the name of the .xlsx-file which stores the results of experiments where annotations have been used and the prompt was tuned for strict redundancy
 - THRESHOLD_REPAIR (Any number of repairs, e.g., "3")
 - THREADING ("1" = ON, "2" = OFF)
 - THREAD_MULTIPLICATOR (Any number for thread multiplication > 0)
