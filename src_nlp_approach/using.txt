@@ -1,0 +1,10 @@
+word similarities 
+embeddings
+https://github.com/UKPLab/sentence-transformers
+with just annotations and once with just text (separated in goal and benefit parts)
+
+--> Once with predefined embeddings and once with finetuned embeddings
+--> Also possible to find closly ranked redundancy sentences 
+--> Clustering of similar redundancies
+--> Using Vector Database to find similar goal and benefit parts which represents also a graph
+--> Representing US as graph structure and find redundancies by common distances and shared nodes
